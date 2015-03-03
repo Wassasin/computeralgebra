@@ -1,0 +1,87 @@
+function MillerRabin(N, n)	
+	k := 0;
+	m := N-1;
+
+	while true do
+		if(m mod 2 eq 1) then
+			break;
+		end if;
+
+		k := k + 1;
+		m := m div 2;
+	end while;
+
+	assert(N - 1 eq 2^k * m);
+	assert(m mod 2 eq 1);
+	
+	for j in [1..n] do
+		a := Random(2, N-1);
+		b := Modexp(a, m, N);
+		
+		if(b eq N-1 or b eq 1) then
+			continue; // Composite for a, try again
+		end if;
+
+		for i in [1..k] do
+			b := Modexp(b, 2, N);
+			if(b eq 1) then
+				return true; // Declare composite
+			end if;
+
+			if(b eq N-1) then
+				break;
+			end if;
+		end for;
+
+		if(b ne N-1) then
+			return true; // Declare composite
+		end if;
+	end for;
+
+	return false; // Declare prime
+end function;
+
+function FindSmallestPrime(x, n)
+	if(x mod 2 eq 0) then
+		x := x + 1;
+	end if;
+
+	while true do
+		if(not MillerRabin(x, n)) then
+			return x;
+		end if;
+
+		x := x + 2;
+	end while;
+end function;
+
+procedure Test(x, n)
+	y := FindSmallestPrime(x, n);
+	print(y);
+	print(y eq NextPrime(x));
+end procedure;
+
+/*
+// 340282366920938463463374607431768211507
+Test(2^128, 4);
+
+// 115792089237316195423570985008687907853269984665640564039457584007913129640233
+Test(2^256, 4);
+
+// 13407807929942597099574024998205846127479365820592393377723561443721764030073546976801874298166903427690031858186486050853753882811946569946433649006084171
+Test(2^512, 4);
+
+// 179769313486231590772930519078902473361797697894230657273430081157732675805500963132708477322407536021120113879871393357658789768814416622492847430639474124377767893424865485276302219601246094119453082952085005768838150682342462881473913110540827237163350510684586298239947245938479716304835356329624224137859
+Test(2^1024, 4);
+*/
+
+for i in [1..100000] do
+	t := Cputime();
+	p := FindSmallestPrime(10^i, 4);
+	print Cputime(t);
+	print("Found first prime for 10^" * IntegerToString(i));
+end for;
+
+// 10^800 up to 3 minutes
+
+quit;
