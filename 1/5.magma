@@ -1,0 +1,38 @@
+SetDefaultRealField(RealField(200));
+
+function RootBisect(n, epsilon)
+    a := 0;
+    b := 1.0 * n;
+    
+    while(Abs(b - a) gt epsilon) do    
+        middle := a + ((b-a) * 0.5);
+        if(middle^2 lt n) then
+            a := middle;
+        else
+            b := middle;
+        end if;
+    end while;
+    
+    return a, b;
+end function;
+
+function PiBisect(epsilon)
+    a := 3.0;
+    b := 4.0;
+    
+    while(Abs(b - a) gt epsilon) do    
+        middle := a + ((b-a) * 0.5);
+        if(Sin(middle) gt 0) then
+            a := middle;
+        else
+            b := middle;
+        end if;
+    end while;
+    
+    return a, b;
+end function;
+
+RootBisect(108974124, 10^-100);
+PiBisect(10^-100);
+
+quit;

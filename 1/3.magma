@@ -1,0 +1,35 @@
+function IntBinSeq(n)
+    result := [];
+    while (n gt 0) do
+        result := result cat [n mod 2];
+        n := n div 2;
+    end while;
+    return result;
+end function;
+
+function FastExp(a, m, n)
+    result := 1;
+    
+    mi := 0;
+    for mp in IntBinSeq(m) do
+        if(mp eq 1) then
+            result := result * a ^ (2 ^ mi) mod n;
+        end if;
+        mi := mi + 1;
+    end for;
+    
+    return result;
+end function;
+
+function RandomOfLength(digits)
+    return Random(10^(digits-1), 10^digits);
+end function;
+
+x := RandomOfLength(128);
+n := RandomOfLength(42);
+
+t := Cputime();
+FastExp(x, 2^16+1337, n);
+Cputime(t);
+
+quit;

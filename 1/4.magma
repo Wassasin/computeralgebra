@@ -1,0 +1,16 @@
+function BinomCoeff(n, k)
+    result := 1;
+    for i in [1..k] do
+        result := result * (n-i+1) div i;
+    end for;
+    return result;
+end function;
+
+BinomCoeff(12, 4);
+BinomCoeff(2880, 1079);
+
+t := Cputime();
+1.0 * BinomCoeff(2*10^7, 10^7);
+Cputime(t);
+
+quit;
