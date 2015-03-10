@@ -1,0 +1,54 @@
+function PollardRho(N, c, l, k)
+	MODN := Integers(N);
+
+	x := Random(0, N-1);
+	y := x;
+	d := 1;
+
+	i := 0;
+	while(true) do
+		if(d ne 1) then
+			break;
+		end if;
+
+		if(i ge k) then
+			return 0; /* Failure */
+		end if;
+
+		acc := 1;
+		for j in [1..l] do
+			i := i + 1;
+			x := MODN ! x^2 + c;
+			y := MODN ! (MODN ! y^2 + c)^2 + c;
+			acc := acc * (y - x);
+		end for;
+
+		d := Gcd(acc, N);
+	end while;
+
+	if(d eq N) then
+		return 1; /* Might have no factors */
+	else
+		return d;
+	end if;
+end function;
+
+procedure Test(c)
+	for n in [5..12] do
+		fn := 2^(2^n)+1;
+		t := Cputime();
+		result := PollardRho(fn, c, 10^3, 10^6);
+		if(result ne 0) then
+			printf "Fn with c=%o, n=%o, d=%o (in %o seconds)\n", c, n, result, Cputime(t);
+		else
+			printf "Fn with c=%o, n=%o, too many cycles (in %o seconds)\n", c, n, Cputime(t);
+		end if;
+	end for;
+end procedure;
+
+Test(1);
+Test(-2);
+Test(-1);
+Test(2);
+
+quit;
