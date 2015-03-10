@@ -1,0 +1,50 @@
+function LucasLehmerKraitchik(N)
+	factors_are_prime := false;
+	while(not factors_are_prime) do
+		a := Random(2, N-1);
+		if(Modexp(a, N-1, N) ne 1) then
+			return false; // Composite
+		end if;
+
+		factors := Factorization(N-1 : Proof := false);
+		factors_are_prime := true;
+		for ftup in factors do
+			pi := ftup[1];
+			if(pi le 10^6) then
+				continue; // Assume pi is prime
+			else
+				if(not LucasLehmerKraitchik(pi)) then
+					factors_are_prime := false;
+					print("Extra LucasLehmerKraitchik round as factors are not certain to be prime");
+					break;
+				end if;
+			end if;
+		end for;
+	end while;
+
+	for ftup in Factorization(N-1 : Proof := false) do
+		pi := ftup[1];
+		ei := ftup[2];
+		if(Modexp(a, (N-1) div (pi^ei), N) ne 1) then
+			return true; // Prime
+		end if;
+	end for;
+
+	return false; // Possibly composite
+end function;
+
+n := 0;
+while(true) do
+	fn := 2^(2^n) + 1;
+	t := Cputime();
+	result := LucasLehmerKraitchik(fn);
+	print Cputime(t);
+	if result then
+		printf "Fn with n=%o is prime", n
+	else
+		printf "Fn with n=%o is NOT prime", n
+	end if;
+	n := n + 1;
+end while;
+
+quit;
