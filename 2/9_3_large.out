@@ -1,0 +1,18 @@
+Magma V2.21-1     Tue Mar 10 2015 17:30:43 on lilo4    [Seed = 2835538322]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "9_3.magma"
+Fn with c=1, n=5, d=641 (in 0.000 seconds)
+Fn with c=1, n=6, d=274177 (in 0.010 seconds)
+Fn with c=1, n=7, d=59649589127497217 (in 8557.110 seconds)
+Fn with c=1, n=8, d=1238926361552897 (in 1066.870 seconds)
+Fn with c=1, n=9, d=2424833 (in 0.090 seconds)
+Fn with c=1, n=10, d=45592577 (in 1.520 seconds)
+Fn with c=1, n=11, d=974849 (in 0.160 seconds)
+Fn with c=1, n=12, d=114689 (in 0.540 seconds)
+Fn with c=-2, n=5, d=641 (in 0.000 seconds)
+Fn with c=-2, n=6, d=274177 (in 0.320 seconds)
+
+[Interrupted]
+
+Total time: 92220.850 seconds, Total memory usage: 32.09MB

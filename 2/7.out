@@ -1,0 +1,4370 @@
+Magma V2.21-1     Tue Mar  3 2015 12:39:26 on lilo3    [Seed = 2684447112]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "7.magma"
+0.000
+Found first prime for 10^1
+0.000
+Found first prime for 10^2
+0.000
+Found first prime for 10^3
+0.000
+Found first prime for 10^4
+0.000
+Found first prime for 10^5
+0.000
+Found first prime for 10^6
+0.000
+Found first prime for 10^7
+0.000
+Found first prime for 10^8
+0.000
+Found first prime for 10^9
+0.000
+Found first prime for 10^10
+0.010
+Found first prime for 10^11
+0.000
+Found first prime for 10^12
+0.000
+Found first prime for 10^13
+0.000
+Found first prime for 10^14
+0.000
+Found first prime for 10^15
+0.000
+Found first prime for 10^16
+0.000
+Found first prime for 10^17
+0.000
+Found first prime for 10^18
+0.000
+Found first prime for 10^19
+0.010
+Found first prime for 10^20
+0.000
+Found first prime for 10^21
+0.000
+Found first prime for 10^22
+0.000
+Found first prime for 10^23
+0.000
+Found first prime for 10^24
+0.000
+Found first prime for 10^25
+0.000
+Found first prime for 10^26
+0.010
+Found first prime for 10^27
+0.010
+Found first prime for 10^28
+0.000
+Found first prime for 10^29
+0.010
+Found first prime for 10^30
+0.000
+Found first prime for 10^31
+0.000
+Found first prime for 10^32
+0.000
+Found first prime for 10^33
+0.010
+Found first prime for 10^34
+0.000
+Found first prime for 10^35
+0.000
+Found first prime for 10^36
+0.000
+Found first prime for 10^37
+0.010
+Found first prime for 10^38
+0.000
+Found first prime for 10^39
+0.000
+Found first prime for 10^40
+0.010
+Found first prime for 10^41
+0.000
+Found first prime for 10^42
+0.010
+Found first prime for 10^43
+0.000
+Found first prime for 10^44
+0.000
+Found first prime for 10^45
+0.010
+Found first prime for 10^46
+0.000
+Found first prime for 10^47
+0.010
+Found first prime for 10^48
+0.000
+Found first prime for 10^49
+0.010
+Found first prime for 10^50
+0.000
+Found first prime for 10^51
+0.020
+Found first prime for 10^52
+0.010
+Found first prime for 10^53
+0.000
+Found first prime for 10^54
+0.010
+Found first prime for 10^55
+0.000
+Found first prime for 10^56
+0.010
+Found first prime for 10^57
+0.020
+Found first prime for 10^58
+0.000
+Found first prime for 10^59
+0.000
+Found first prime for 10^60
+0.010
+Found first prime for 10^61
+0.040
+Found first prime for 10^62
+0.010
+Found first prime for 10^63
+0.010
+Found first prime for 10^64
+0.000
+Found first prime for 10^65
+0.010
+Found first prime for 10^66
+0.000
+Found first prime for 10^67
+0.010
+Found first prime for 10^68
+0.000
+Found first prime for 10^69
+0.010
+Found first prime for 10^70
+0.020
+Found first prime for 10^71
+0.010
+Found first prime for 10^72
+0.000
+Found first prime for 10^73
+0.030
+Found first prime for 10^74
+0.010
+Found first prime for 10^75
+0.010
+Found first prime for 10^76
+0.010
+Found first prime for 10^77
+0.010
+Found first prime for 10^78
+0.010
+Found first prime for 10^79
+0.020
+Found first prime for 10^80
+0.000
+Found first prime for 10^81
+0.050
+Found first prime for 10^82
+0.010
+Found first prime for 10^83
+0.030
+Found first prime for 10^84
+0.020
+Found first prime for 10^85
+0.020
+Found first prime for 10^86
+0.050
+Found first prime for 10^87
+0.030
+Found first prime for 10^88
+0.000
+Found first prime for 10^89
+0.040
+Found first prime for 10^90
+0.020
+Found first prime for 10^91
+0.050
+Found first prime for 10^92
+0.030
+Found first prime for 10^93
+0.010
+Found first prime for 10^94
+0.030
+Found first prime for 10^95
+0.020
+Found first prime for 10^96
+0.050
+Found first prime for 10^97
+0.010
+Found first prime for 10^98
+0.030
+Found first prime for 10^99
+0.030
+Found first prime for 10^100
+0.000
+Found first prime for 10^101
+0.020
+Found first prime for 10^102
+0.010
+Found first prime for 10^103
+0.030
+Found first prime for 10^104
+0.000
+Found first prime for 10^105
+0.010
+Found first prime for 10^106
+0.000
+Found first prime for 10^107
+0.010
+Found first prime for 10^108
+0.050
+Found first prime for 10^109
+0.000
+Found first prime for 10^110
+0.020
+Found first prime for 10^111
+0.030
+Found first prime for 10^112
+0.010
+Found first prime for 10^113
+0.030
+Found first prime for 10^114
+0.020
+Found first prime for 10^115
+0.010
+Found first prime for 10^116
+0.040
+Found first prime for 10^117
+0.110
+Found first prime for 10^118
+0.020
+Found first prime for 10^119
+0.010
+Found first prime for 10^120
+0.010
+Found first prime for 10^121
+0.180
+Found first prime for 10^122
+0.000
+Found first prime for 10^123
+0.120
+Found first prime for 10^124
+0.040
+Found first prime for 10^125
+0.110
+Found first prime for 10^126
+0.050
+Found first prime for 10^127
+0.070
+Found first prime for 10^128
+0.070
+Found first prime for 10^129
+0.190
+Found first prime for 10^130
+0.010
+Found first prime for 10^131
+0.030
+Found first prime for 10^132
+0.000
+Found first prime for 10^133
+0.000
+Found first prime for 10^134
+0.250
+Found first prime for 10^135
+0.020
+Found first prime for 10^136
+0.060
+Found first prime for 10^137
+0.050
+Found first prime for 10^138
+0.110
+Found first prime for 10^139
+0.000
+Found first prime for 10^140
+0.030
+Found first prime for 10^141
+0.000
+Found first prime for 10^142
+0.020
+Found first prime for 10^143
+0.020
+Found first prime for 10^144
+0.020
+Found first prime for 10^145
+0.000
+Found first prime for 10^146
+0.230
+Found first prime for 10^147
+0.060
+Found first prime for 10^148
+0.040
+Found first prime for 10^149
+0.020
+Found first prime for 10^150
+0.210
+Found first prime for 10^151
+0.000
+Found first prime for 10^152
+0.020
+Found first prime for 10^153
+0.100
+Found first prime for 10^154
+0.060
+Found first prime for 10^155
+0.130
+Found first prime for 10^156
+0.160
+Found first prime for 10^157
+0.040
+Found first prime for 10^158
+0.050
+Found first prime for 10^159
+0.080
+Found first prime for 10^160
+0.120
+Found first prime for 10^161
+0.030
+Found first prime for 10^162
+0.070
+Found first prime for 10^163
+0.540
+Found first prime for 10^164
+0.210
+Found first prime for 10^165
+0.100
+Found first prime for 10^166
+0.010
+Found first prime for 10^167
+0.510
+Found first prime for 10^168
+0.020
+Found first prime for 10^169
+0.020
+Found first prime for 10^170
+0.080
+Found first prime for 10^171
+0.180
+Found first prime for 10^172
+0.130
+Found first prime for 10^173
+0.310
+Found first prime for 10^174
+0.150
+Found first prime for 10^175
+0.080
+Found first prime for 10^176
+0.310
+Found first prime for 10^177
+0.090
+Found first prime for 10^178
+0.320
+Found first prime for 10^179
+0.110
+Found first prime for 10^180
+0.080
+Found first prime for 10^181
+0.080
+Found first prime for 10^182
+0.360
+Found first prime for 10^183
+0.020
+Found first prime for 10^184
+0.340
+Found first prime for 10^185
+0.260
+Found first prime for 10^186
+0.060
+Found first prime for 10^187
+0.060
+Found first prime for 10^188
+0.070
+Found first prime for 10^189
+0.100
+Found first prime for 10^190
+0.030
+Found first prime for 10^191
+0.430
+Found first prime for 10^192
+0.150
+Found first prime for 10^193
+0.410
+Found first prime for 10^194
+0.010
+Found first prime for 10^195
+0.020
+Found first prime for 10^196
+0.490
+Found first prime for 10^197
+0.240
+Found first prime for 10^198
+0.070
+Found first prime for 10^199
+0.160
+Found first prime for 10^200
+0.050
+Found first prime for 10^201
+0.000
+Found first prime for 10^202
+0.080
+Found first prime for 10^203
+0.180
+Found first prime for 10^204
+0.220
+Found first prime for 10^205
+0.240
+Found first prime for 10^206
+0.080
+Found first prime for 10^207
+0.210
+Found first prime for 10^208
+0.050
+Found first prime for 10^209
+0.530
+Found first prime for 10^210
+0.360
+Found first prime for 10^211
+0.130
+Found first prime for 10^212
+0.550
+Found first prime for 10^213
+0.170
+Found first prime for 10^214
+0.110
+Found first prime for 10^215
+0.270
+Found first prime for 10^216
+0.090
+Found first prime for 10^217
+1.200
+Found first prime for 10^218
+0.310
+Found first prime for 10^219
+0.220
+Found first prime for 10^220
+0.060
+Found first prime for 10^221
+0.000
+Found first prime for 10^222
+0.050
+Found first prime for 10^223
+0.080
+Found first prime for 10^224
+0.180
+Found first prime for 10^225
+0.130
+Found first prime for 10^226
+0.290
+Found first prime for 10^227
+0.020
+Found first prime for 10^228
+0.100
+Found first prime for 10^229
+0.440
+Found first prime for 10^230
+0.180
+Found first prime for 10^231
+1.150
+Found first prime for 10^232
+0.110
+Found first prime for 10^233
+0.240
+Found first prime for 10^234
+0.140
+Found first prime for 10^235
+0.670
+Found first prime for 10^236
+0.490
+Found first prime for 10^237
+0.460
+Found first prime for 10^238
+0.590
+Found first prime for 10^239
+1.150
+Found first prime for 10^240
+0.070
+Found first prime for 10^241
+0.020
+Found first prime for 10^242
+0.500
+Found first prime for 10^243
+0.280
+Found first prime for 10^244
+0.080
+Found first prime for 10^245
+0.490
+Found first prime for 10^246
+0.430
+Found first prime for 10^247
+0.080
+Found first prime for 10^248
+0.840
+Found first prime for 10^249
+0.840
+Found first prime for 10^250
+0.300
+Found first prime for 10^251
+1.170
+Found first prime for 10^252
+0.040
+Found first prime for 10^253
+0.200
+Found first prime for 10^254
+0.040
+Found first prime for 10^255
+0.120
+Found first prime for 10^256
+0.210
+Found first prime for 10^257
+0.110
+Found first prime for 10^258
+0.120
+Found first prime for 10^259
+0.050
+Found first prime for 10^260
+0.760
+Found first prime for 10^261
+0.570
+Found first prime for 10^262
+0.270
+Found first prime for 10^263
+1.310
+Found first prime for 10^264
+0.220
+Found first prime for 10^265
+0.580
+Found first prime for 10^266
+1.530
+Found first prime for 10^267
+0.520
+Found first prime for 10^268
+0.490
+Found first prime for 10^269
+0.320
+Found first prime for 10^270
+1.200
+Found first prime for 10^271
+0.010
+Found first prime for 10^272
+0.600
+Found first prime for 10^273
+0.280
+Found first prime for 10^274
+0.630
+Found first prime for 10^275
+0.090
+Found first prime for 10^276
+1.730
+Found first prime for 10^277
+0.250
+Found first prime for 10^278
+0.040
+Found first prime for 10^279
+0.020
+Found first prime for 10^280
+0.040
+Found first prime for 10^281
+0.980
+Found first prime for 10^282
+0.380
+Found first prime for 10^283
+0.130
+Found first prime for 10^284
+0.390
+Found first prime for 10^285
+0.180
+Found first prime for 10^286
+0.220
+Found first prime for 10^287
+0.110
+Found first prime for 10^288
+1.710
+Found first prime for 10^289
+0.310
+Found first prime for 10^290
+0.020
+Found first prime for 10^291
+0.320
+Found first prime for 10^292
+1.720
+Found first prime for 10^293
+0.660
+Found first prime for 10^294
+0.450
+Found first prime for 10^295
+0.380
+Found first prime for 10^296
+0.280
+Found first prime for 10^297
+0.980
+Found first prime for 10^298
+0.730
+Found first prime for 10^299
+0.370
+Found first prime for 10^300
+0.550
+Found first prime for 10^301
+0.430
+Found first prime for 10^302
+0.270
+Found first prime for 10^303
+1.660
+Found first prime for 10^304
+1.200
+Found first prime for 10^305
+1.050
+Found first prime for 10^306
+0.740
+Found first prime for 10^307
+0.830
+Found first prime for 10^308
+1.590
+Found first prime for 10^309
+0.900
+Found first prime for 10^310
+0.170
+Found first prime for 10^311
+0.110
+Found first prime for 10^312
+0.210
+Found first prime for 10^313
+3.470
+Found first prime for 10^314
+1.710
+Found first prime for 10^315
+0.780
+Found first prime for 10^316
+1.550
+Found first prime for 10^317
+0.330
+Found first prime for 10^318
+1.300
+Found first prime for 10^319
+0.930
+Found first prime for 10^320
+0.130
+Found first prime for 10^321
+0.950
+Found first prime for 10^322
+2.410
+Found first prime for 10^323
+0.380
+Found first prime for 10^324
+0.830
+Found first prime for 10^325
+0.640
+Found first prime for 10^326
+2.880
+Found first prime for 10^327
+1.730
+Found first prime for 10^328
+0.790
+Found first prime for 10^329
+0.850
+Found first prime for 10^330
+2.120
+Found first prime for 10^331
+1.360
+Found first prime for 10^332
+3.570
+Found first prime for 10^333
+0.120
+Found first prime for 10^334
+0.700
+Found first prime for 10^335
+0.900
+Found first prime for 10^336
+0.270
+Found first prime for 10^337
+2.290
+Found first prime for 10^338
+0.870
+Found first prime for 10^339
+2.020
+Found first prime for 10^340
+1.250
+Found first prime for 10^341
+1.880
+Found first prime for 10^342
+0.450
+Found first prime for 10^343
+1.700
+Found first prime for 10^344
+2.700
+Found first prime for 10^345
+4.430
+Found first prime for 10^346
+0.180
+Found first prime for 10^347
+2.640
+Found first prime for 10^348
+0.520
+Found first prime for 10^349
+0.240
+Found first prime for 10^350
+0.360
+Found first prime for 10^351
+1.780
+Found first prime for 10^352
+2.100
+Found first prime for 10^353
+2.340
+Found first prime for 10^354
+0.240
+Found first prime for 10^355
+0.440
+Found first prime for 10^356
+0.050
+Found first prime for 10^357
+0.760
+Found first prime for 10^358
+1.210
+Found first prime for 10^359
+0.870
+Found first prime for 10^360
+1.020
+Found first prime for 10^361
+0.810
+Found first prime for 10^362
+1.130
+Found first prime for 10^363
+0.180
+Found first prime for 10^364
+0.220
+Found first prime for 10^365
+0.060
+Found first prime for 10^366
+0.420
+Found first prime for 10^367
+0.420
+Found first prime for 10^368
+2.420
+Found first prime for 10^369
+5.790
+Found first prime for 10^370
+0.260
+Found first prime for 10^371
+0.870
+Found first prime for 10^372
+0.780
+Found first prime for 10^373
+0.340
+Found first prime for 10^374
+3.200
+Found first prime for 10^375
+2.740
+Found first prime for 10^376
+1.150
+Found first prime for 10^377
+3.700
+Found first prime for 10^378
+1.520
+Found first prime for 10^379
+0.980
+Found first prime for 10^380
+3.890
+Found first prime for 10^381
+1.870
+Found first prime for 10^382
+0.600
+Found first prime for 10^383
+0.350
+Found first prime for 10^384
+2.400
+Found first prime for 10^385
+1.600
+Found first prime for 10^386
+10.130
+Found first prime for 10^387
+3.630
+Found first prime for 10^388
+5.260
+Found first prime for 10^389
+1.840
+Found first prime for 10^390
+1.050
+Found first prime for 10^391
+0.900
+Found first prime for 10^392
+1.130
+Found first prime for 10^393
+0.230
+Found first prime for 10^394
+0.330
+Found first prime for 10^395
+3.330
+Found first prime for 10^396
+0.460
+Found first prime for 10^397
+1.840
+Found first prime for 10^398
+2.940
+Found first prime for 10^399
+0.170
+Found first prime for 10^400
+3.500
+Found first prime for 10^401
+1.840
+Found first prime for 10^402
+0.620
+Found first prime for 10^403
+0.200
+Found first prime for 10^404
+1.570
+Found first prime for 10^405
+0.050
+Found first prime for 10^406
+2.630
+Found first prime for 10^407
+1.360
+Found first prime for 10^408
+1.180
+Found first prime for 10^409
+0.180
+Found first prime for 10^410
+0.570
+Found first prime for 10^411
+0.040
+Found first prime for 10^412
+0.020
+Found first prime for 10^413
+0.220
+Found first prime for 10^414
+2.730
+Found first prime for 10^415
+0.320
+Found first prime for 10^416
+2.790
+Found first prime for 10^417
+3.620
+Found first prime for 10^418
+0.390
+Found first prime for 10^419
+3.310
+Found first prime for 10^420
+0.330
+Found first prime for 10^421
+0.970
+Found first prime for 10^422
+2.600
+Found first prime for 10^423
+2.110
+Found first prime for 10^424
+1.940
+Found first prime for 10^425
+0.030
+Found first prime for 10^426
+3.780
+Found first prime for 10^427
+1.330
+Found first prime for 10^428
+2.660
+Found first prime for 10^429
+4.460
+Found first prime for 10^430
+5.590
+Found first prime for 10^431
+11.220
+Found first prime for 10^432
+4.270
+Found first prime for 10^433
+3.030
+Found first prime for 10^434
+3.120
+Found first prime for 10^435
+4.740
+Found first prime for 10^436
+2.290
+Found first prime for 10^437
+1.510
+Found first prime for 10^438
+0.870
+Found first prime for 10^439
+1.920
+Found first prime for 10^440
+1.880
+Found first prime for 10^441
+2.650
+Found first prime for 10^442
+12.390
+Found first prime for 10^443
+0.250
+Found first prime for 10^444
+4.480
+Found first prime for 10^445
+3.680
+Found first prime for 10^446
+2.250
+Found first prime for 10^447
+0.610
+Found first prime for 10^448
+0.320
+Found first prime for 10^449
+6.790
+Found first prime for 10^450
+1.420
+Found first prime for 10^451
+5.460
+Found first prime for 10^452
+1.150
+Found first prime for 10^453
+1.060
+Found first prime for 10^454
+0.450
+Found first prime for 10^455
+1.730
+Found first prime for 10^456
+1.550
+Found first prime for 10^457
+0.680
+Found first prime for 10^458
+1.650
+Found first prime for 10^459
+0.360
+Found first prime for 10^460
+2.370
+Found first prime for 10^461
+3.180
+Found first prime for 10^462
+10.940
+Found first prime for 10^463
+2.170
+Found first prime for 10^464
+1.550
+Found first prime for 10^465
+5.700
+Found first prime for 10^466
+1.290
+Found first prime for 10^467
+1.030
+Found first prime for 10^468
+0.130
+Found first prime for 10^469
+2.840
+Found first prime for 10^470
+4.600
+Found first prime for 10^471
+5.090
+Found first prime for 10^472
+0.350
+Found first prime for 10^473
+0.950
+Found first prime for 10^474
+0.760
+Found first prime for 10^475
+5.910
+Found first prime for 10^476
+11.520
+Found first prime for 10^477
+12.220
+Found first prime for 10^478
+0.410
+Found first prime for 10^479
+10.770
+Found first prime for 10^480
+2.480
+Found first prime for 10^481
+0.720
+Found first prime for 10^482
+6.220
+Found first prime for 10^483
+0.270
+Found first prime for 10^484
+18.450
+Found first prime for 10^485
+10.280
+Found first prime for 10^486
+1.700
+Found first prime for 10^487
+3.510
+Found first prime for 10^488
+8.000
+Found first prime for 10^489
+1.430
+Found first prime for 10^490
+6.420
+Found first prime for 10^491
+1.640
+Found first prime for 10^492
+6.210
+Found first prime for 10^493
+2.520
+Found first prime for 10^494
+3.860
+Found first prime for 10^495
+6.830
+Found first prime for 10^496
+2.310
+Found first prime for 10^497
+5.830
+Found first prime for 10^498
+0.620
+Found first prime for 10^499
+3.710
+Found first prime for 10^500
+0.650
+Found first prime for 10^501
+6.530
+Found first prime for 10^502
+2.170
+Found first prime for 10^503
+7.210
+Found first prime for 10^504
+3.870
+Found first prime for 10^505
+2.030
+Found first prime for 10^506
+3.340
+Found first prime for 10^507
+5.130
+Found first prime for 10^508
+2.770
+Found first prime for 10^509
+10.610
+Found first prime for 10^510
+1.050
+Found first prime for 10^511
+1.000
+Found first prime for 10^512
+0.530
+Found first prime for 10^513
+11.230
+Found first prime for 10^514
+11.080
+Found first prime for 10^515
+0.360
+Found first prime for 10^516
+13.770
+Found first prime for 10^517
+9.780
+Found first prime for 10^518
+0.180
+Found first prime for 10^519
+1.370
+Found first prime for 10^520
+30.040
+Found first prime for 10^521
+7.640
+Found first prime for 10^522
+13.410
+Found first prime for 10^523
+3.640
+Found first prime for 10^524
+2.540
+Found first prime for 10^525
+8.620
+Found first prime for 10^526
+5.510
+Found first prime for 10^527
+1.140
+Found first prime for 10^528
+0.860
+Found first prime for 10^529
+4.120
+Found first prime for 10^530
+5.450
+Found first prime for 10^531
+0.190
+Found first prime for 10^532
+3.050
+Found first prime for 10^533
+18.050
+Found first prime for 10^534
+16.990
+Found first prime for 10^535
+7.670
+Found first prime for 10^536
+14.030
+Found first prime for 10^537
+6.550
+Found first prime for 10^538
+7.850
+Found first prime for 10^539
+11.070
+Found first prime for 10^540
+3.750
+Found first prime for 10^541
+7.790
+Found first prime for 10^542
+1.440
+Found first prime for 10^543
+9.780
+Found first prime for 10^544
+4.280
+Found first prime for 10^545
+6.720
+Found first prime for 10^546
+5.560
+Found first prime for 10^547
+2.940
+Found first prime for 10^548
+5.340
+Found first prime for 10^549
+13.360
+Found first prime for 10^550
+4.150
+Found first prime for 10^551
+8.820
+Found first prime for 10^552
+1.200
+Found first prime for 10^553
+5.460
+Found first prime for 10^554
+0.790
+Found first prime for 10^555
+14.870
+Found first prime for 10^556
+11.500
+Found first prime for 10^557
+13.120
+Found first prime for 10^558
+9.260
+Found first prime for 10^559
+4.610
+Found first prime for 10^560
+9.930
+Found first prime for 10^561
+1.170
+Found first prime for 10^562
+6.230
+Found first prime for 10^563
+15.350
+Found first prime for 10^564
+0.950
+Found first prime for 10^565
+3.460
+Found first prime for 10^566
+17.250
+Found first prime for 10^567
+2.700
+Found first prime for 10^568
+4.170
+Found first prime for 10^569
+3.650
+Found first prime for 10^570
+10.240
+Found first prime for 10^571
+16.640
+Found first prime for 10^572
+3.020
+Found first prime for 10^573
+0.150
+Found first prime for 10^574
+1.050
+Found first prime for 10^575
+17.560
+Found first prime for 10^576
+26.600
+Found first prime for 10^577
+15.530
+Found first prime for 10^578
+16.870
+Found first prime for 10^579
+4.470
+Found first prime for 10^580
+9.150
+Found first prime for 10^581
+1.920
+Found first prime for 10^582
+13.160
+Found first prime for 10^583
+4.870
+Found first prime for 10^584
+26.370
+Found first prime for 10^585
+28.700
+Found first prime for 10^586
+3.320
+Found first prime for 10^587
+1.610
+Found first prime for 10^588
+0.590
+Found first prime for 10^589
+0.990
+Found first prime for 10^590
+13.470
+Found first prime for 10^591
+5.670
+Found first prime for 10^592
+8.940
+Found first prime for 10^593
+4.690
+Found first prime for 10^594
+1.810
+Found first prime for 10^595
+9.240
+Found first prime for 10^596
+26.720
+Found first prime for 10^597
+2.600
+Found first prime for 10^598
+14.890
+Found first prime for 10^599
+3.570
+Found first prime for 10^600
+9.150
+Found first prime for 10^601
+13.650
+Found first prime for 10^602
+0.700
+Found first prime for 10^603
+5.390
+Found first prime for 10^604
+1.840
+Found first prime for 10^605
+11.700
+Found first prime for 10^606
+4.280
+Found first prime for 10^607
+3.550
+Found first prime for 10^608
+5.710
+Found first prime for 10^609
+0.670
+Found first prime for 10^610
+3.120
+Found first prime for 10^611
+9.060
+Found first prime for 10^612
+3.210
+Found first prime for 10^613
+16.750
+Found first prime for 10^614
+2.030
+Found first prime for 10^615
+17.780
+Found first prime for 10^616
+17.770
+Found first prime for 10^617
+19.600
+Found first prime for 10^618
+4.330
+Found first prime for 10^619
+4.970
+Found first prime for 10^620
+4.130
+Found first prime for 10^621
+3.090
+Found first prime for 10^622
+10.800
+Found first prime for 10^623
+1.320
+Found first prime for 10^624
+15.430
+Found first prime for 10^625
+5.960
+Found first prime for 10^626
+20.910
+Found first prime for 10^627
+20.320
+Found first prime for 10^628
+0.180
+Found first prime for 10^629
+48.270
+Found first prime for 10^630
+6.500
+Found first prime for 10^631
+0.300
+Found first prime for 10^632
+1.570
+Found first prime for 10^633
+16.720
+Found first prime for 10^634
+6.760
+Found first prime for 10^635
+22.200
+Found first prime for 10^636
+8.760
+Found first prime for 10^637
+17.470
+Found first prime for 10^638
+10.240
+Found first prime for 10^639
+14.930
+Found first prime for 10^640
+27.280
+Found first prime for 10^641
+8.010
+Found first prime for 10^642
+14.010
+Found first prime for 10^643
+6.860
+Found first prime for 10^644
+0.890
+Found first prime for 10^645
+5.740
+Found first prime for 10^646
+53.010
+Found first prime for 10^647
+1.960
+Found first prime for 10^648
+4.790
+Found first prime for 10^649
+15.660
+Found first prime for 10^650
+1.900
+Found first prime for 10^651
+47.630
+Found first prime for 10^652
+14.900
+Found first prime for 10^653
+8.350
+Found first prime for 10^654
+6.260
+Found first prime for 10^655
+26.250
+Found first prime for 10^656
+15.050
+Found first prime for 10^657
+0.470
+Found first prime for 10^658
+7.770
+Found first prime for 10^659
+15.540
+Found first prime for 10^660
+2.580
+Found first prime for 10^661
+2.650
+Found first prime for 10^662
+54.000
+Found first prime for 10^663
+30.090
+Found first prime for 10^664
+1.070
+Found first prime for 10^665
+44.050
+Found first prime for 10^666
+11.690
+Found first prime for 10^667
+21.450
+Found first prime for 10^668
+4.210
+Found first prime for 10^669
+1.660
+Found first prime for 10^670
+10.150
+Found first prime for 10^671
+11.790
+Found first prime for 10^672
+11.680
+Found first prime for 10^673
+12.650
+Found first prime for 10^674
+6.790
+Found first prime for 10^675
+0.420
+Found first prime for 10^676
+51.210
+Found first prime for 10^677
+3.680
+Found first prime for 10^678
+3.830
+Found first prime for 10^679
+20.460
+Found first prime for 10^680
+2.320
+Found first prime for 10^681
+2.950
+Found first prime for 10^682
+14.520
+Found first prime for 10^683
+22.220
+Found first prime for 10^684
+15.290
+Found first prime for 10^685
+30.590
+Found first prime for 10^686
+8.100
+Found first prime for 10^687
+38.360
+Found first prime for 10^688
+10.160
+Found first prime for 10^689
+30.480
+Found first prime for 10^690
+17.380
+Found first prime for 10^691
+33.530
+Found first prime for 10^692
+11.410
+Found first prime for 10^693
+11.770
+Found first prime for 10^694
+0.770
+Found first prime for 10^695
+0.670
+Found first prime for 10^696
+15.990
+Found first prime for 10^697
+15.830
+Found first prime for 10^698
+12.220
+Found first prime for 10^699
+0.130
+Found first prime for 10^700
+13.380
+Found first prime for 10^701
+8.990
+Found first prime for 10^702
+1.580
+Found first prime for 10^703
+2.110
+Found first prime for 10^704
+12.920
+Found first prime for 10^705
+15.010
+Found first prime for 10^706
+3.450
+Found first prime for 10^707
+29.160
+Found first prime for 10^708
+8.410
+Found first prime for 10^709
+2.040
+Found first prime for 10^710
+25.170
+Found first prime for 10^711
+10.740
+Found first prime for 10^712
+28.620
+Found first prime for 10^713
+33.170
+Found first prime for 10^714
+19.010
+Found first prime for 10^715
+42.930
+Found first prime for 10^716
+29.350
+Found first prime for 10^717
+62.630
+Found first prime for 10^718
+50.090
+Found first prime for 10^719
+4.740
+Found first prime for 10^720
+33.620
+Found first prime for 10^721
+41.170
+Found first prime for 10^722
+39.370
+Found first prime for 10^723
+43.740
+Found first prime for 10^724
+71.140
+Found first prime for 10^725
+13.050
+Found first prime for 10^726
+2.920
+Found first prime for 10^727
+30.440
+Found first prime for 10^728
+8.510
+Found first prime for 10^729
+15.070
+Found first prime for 10^730
+11.620
+Found first prime for 10^731
+0.970
+Found first prime for 10^732
+8.100
+Found first prime for 10^733
+5.470
+Found first prime for 10^734
+17.790
+Found first prime for 10^735
+54.850
+Found first prime for 10^736
+64.510
+Found first prime for 10^737
+24.450
+Found first prime for 10^738
+0.750
+Found first prime for 10^739
+3.180
+Found first prime for 10^740
+16.610
+Found first prime for 10^741
+45.760
+Found first prime for 10^742
+7.490
+Found first prime for 10^743
+9.930
+Found first prime for 10^744
+14.780
+Found first prime for 10^745
+16.720
+Found first prime for 10^746
+27.440
+Found first prime for 10^747
+3.350
+Found first prime for 10^748
+9.080
+Found first prime for 10^749
+10.040
+Found first prime for 10^750
+3.210
+Found first prime for 10^751
+1.550
+Found first prime for 10^752
+3.390
+Found first prime for 10^753
+2.550
+Found first prime for 10^754
+25.010
+Found first prime for 10^755
+19.800
+Found first prime for 10^756
+32.140
+Found first prime for 10^757
+14.550
+Found first prime for 10^758
+6.280
+Found first prime for 10^759
+3.020
+Found first prime for 10^760
+14.650
+Found first prime for 10^761
+57.730
+Found first prime for 10^762
+5.040
+Found first prime for 10^763
+2.680
+Found first prime for 10^764
+22.630
+Found first prime for 10^765
+46.420
+Found first prime for 10^766
+12.920
+Found first prime for 10^767
+11.460
+Found first prime for 10^768
+7.960
+Found first prime for 10^769
+1.680
+Found first prime for 10^770
+0.860
+Found first prime for 10^771
+45.620
+Found first prime for 10^772
+11.850
+Found first prime for 10^773
+27.300
+Found first prime for 10^774
+0.510
+Found first prime for 10^775
+22.220
+Found first prime for 10^776
+19.210
+Found first prime for 10^777
+8.970
+Found first prime for 10^778
+49.560
+Found first prime for 10^779
+37.550
+Found first prime for 10^780
+0.760
+Found first prime for 10^781
+7.250
+Found first prime for 10^782
+4.530
+Found first prime for 10^783
+1.490
+Found first prime for 10^784
+45.900
+Found first prime for 10^785
+8.630
+Found first prime for 10^786
+41.390
+Found first prime for 10^787
+1.890
+Found first prime for 10^788
+73.140
+Found first prime for 10^789
+15.220
+Found first prime for 10^790
+8.760
+Found first prime for 10^791
+9.600
+Found first prime for 10^792
+35.440
+Found first prime for 10^793
+92.340
+Found first prime for 10^794
+7.810
+Found first prime for 10^795
+61.530
+Found first prime for 10^796
+13.030
+Found first prime for 10^797
+2.530
+Found first prime for 10^798
+31.790
+Found first prime for 10^799
+20.530
+Found first prime for 10^800
+29.600
+Found first prime for 10^801
+43.240
+Found first prime for 10^802
+17.930
+Found first prime for 10^803
+14.980
+Found first prime for 10^804
+26.270
+Found first prime for 10^805
+4.220
+Found first prime for 10^806
+46.260
+Found first prime for 10^807
+44.410
+Found first prime for 10^808
+15.150
+Found first prime for 10^809
+21.820
+Found first prime for 10^810
+24.930
+Found first prime for 10^811
+20.160
+Found first prime for 10^812
+9.020
+Found first prime for 10^813
+12.410
+Found first prime for 10^814
+62.770
+Found first prime for 10^815
+8.270
+Found first prime for 10^816
+22.910
+Found first prime for 10^817
+9.950
+Found first prime for 10^818
+146.390
+Found first prime for 10^819
+6.190
+Found first prime for 10^820
+3.490
+Found first prime for 10^821
+6.360
+Found first prime for 10^822
+80.930
+Found first prime for 10^823
+2.700
+Found first prime for 10^824
+31.220
+Found first prime for 10^825
+24.850
+Found first prime for 10^826
+111.330
+Found first prime for 10^827
+15.520
+Found first prime for 10^828
+67.930
+Found first prime for 10^829
+42.590
+Found first prime for 10^830
+14.980
+Found first prime for 10^831
+75.460
+Found first prime for 10^832
+1.610
+Found first prime for 10^833
+13.280
+Found first prime for 10^834
+1.280
+Found first prime for 10^835
+41.370
+Found first prime for 10^836
+4.360
+Found first prime for 10^837
+3.770
+Found first prime for 10^838
+15.390
+Found first prime for 10^839
+68.490
+Found first prime for 10^840
+6.320
+Found first prime for 10^841
+17.250
+Found first prime for 10^842
+3.390
+Found first prime for 10^843
+2.700
+Found first prime for 10^844
+4.540
+Found first prime for 10^845
+11.090
+Found first prime for 10^846
+5.350
+Found first prime for 10^847
+4.750
+Found first prime for 10^848
+15.630
+Found first prime for 10^849
+16.250
+Found first prime for 10^850
+14.550
+Found first prime for 10^851
+10.220
+Found first prime for 10^852
+6.010
+Found first prime for 10^853
+73.620
+Found first prime for 10^854
+2.460
+Found first prime for 10^855
+86.420
+Found first prime for 10^856
+6.610
+Found first prime for 10^857
+49.970
+Found first prime for 10^858
+7.490
+Found first prime for 10^859
+46.990
+Found first prime for 10^860
+49.590
+Found first prime for 10^861
+28.750
+Found first prime for 10^862
+16.560
+Found first prime for 10^863
+59.470
+Found first prime for 10^864
+20.930
+Found first prime for 10^865
+46.150
+Found first prime for 10^866
+22.930
+Found first prime for 10^867
+44.940
+Found first prime for 10^868
+15.300
+Found first prime for 10^869
+77.600
+Found first prime for 10^870
+24.620
+Found first prime for 10^871
+161.510
+Found first prime for 10^872
+15.530
+Found first prime for 10^873
+43.170
+Found first prime for 10^874
+168.550
+Found first prime for 10^875
+12.340
+Found first prime for 10^876
+15.990
+Found first prime for 10^877
+13.980
+Found first prime for 10^878
+24.100
+Found first prime for 10^879
+33.910
+Found first prime for 10^880
+4.180
+Found first prime for 10^881
+48.230
+Found first prime for 10^882
+107.670
+Found first prime for 10^883
+13.120
+Found first prime for 10^884
+88.320
+Found first prime for 10^885
+1.410
+Found first prime for 10^886
+9.220
+Found first prime for 10^887
+27.670
+Found first prime for 10^888
+35.210
+Found first prime for 10^889
+12.610
+Found first prime for 10^890
+10.820
+Found first prime for 10^891
+4.980
+Found first prime for 10^892
+16.800
+Found first prime for 10^893
+48.650
+Found first prime for 10^894
+18.210
+Found first prime for 10^895
+20.770
+Found first prime for 10^896
+11.190
+Found first prime for 10^897
+105.390
+Found first prime for 10^898
+3.670
+Found first prime for 10^899
+33.980
+Found first prime for 10^900
+72.170
+Found first prime for 10^901
+32.120
+Found first prime for 10^902
+18.750
+Found first prime for 10^903
+10.830
+Found first prime for 10^904
+74.030
+Found first prime for 10^905
+7.630
+Found first prime for 10^906
+73.410
+Found first prime for 10^907
+21.390
+Found first prime for 10^908
+66.770
+Found first prime for 10^909
+41.070
+Found first prime for 10^910
+10.730
+Found first prime for 10^911
+42.650
+Found first prime for 10^912
+29.540
+Found first prime for 10^913
+17.370
+Found first prime for 10^914
+78.170
+Found first prime for 10^915
+53.280
+Found first prime for 10^916
+13.400
+Found first prime for 10^917
+71.960
+Found first prime for 10^918
+18.610
+Found first prime for 10^919
+11.640
+Found first prime for 10^920
+34.200
+Found first prime for 10^921
+6.960
+Found first prime for 10^922
+83.380
+Found first prime for 10^923
+90.490
+Found first prime for 10^924
+40.750
+Found first prime for 10^925
+116.280
+Found first prime for 10^926
+45.670
+Found first prime for 10^927
+6.570
+Found first prime for 10^928
+36.900
+Found first prime for 10^929
+3.270
+Found first prime for 10^930
+18.880
+Found first prime for 10^931
+130.060
+Found first prime for 10^932
+31.340
+Found first prime for 10^933
+2.080
+Found first prime for 10^934
+45.000
+Found first prime for 10^935
+53.420
+Found first prime for 10^936
+105.090
+Found first prime for 10^937
+5.580
+Found first prime for 10^938
+62.860
+Found first prime for 10^939
+99.480
+Found first prime for 10^940
+18.550
+Found first prime for 10^941
+16.620
+Found first prime for 10^942
+231.580
+Found first prime for 10^943
+10.070
+Found first prime for 10^944
+25.190
+Found first prime for 10^945
+89.270
+Found first prime for 10^946
+56.360
+Found first prime for 10^947
+12.700
+Found first prime for 10^948
+78.160
+Found first prime for 10^949
+87.980
+Found first prime for 10^950
+42.670
+Found first prime for 10^951
+102.320
+Found first prime for 10^952
+5.450
+Found first prime for 10^953
+25.430
+Found first prime for 10^954
+56.630
+Found first prime for 10^955
+85.500
+Found first prime for 10^956
+29.440
+Found first prime for 10^957
+20.270
+Found first prime for 10^958
+4.560
+Found first prime for 10^959
+11.130
+Found first prime for 10^960
+22.850
+Found first prime for 10^961
+30.770
+Found first prime for 10^962
+13.160
+Found first prime for 10^963
+14.410
+Found first prime for 10^964
+48.650
+Found first prime for 10^965
+104.520
+Found first prime for 10^966
+15.130
+Found first prime for 10^967
+56.450
+Found first prime for 10^968
+9.630
+Found first prime for 10^969
+6.840
+Found first prime for 10^970
+9.200
+Found first prime for 10^971
+1.650
+Found first prime for 10^972
+2.910
+Found first prime for 10^973
+123.180
+Found first prime for 10^974
+93.380
+Found first prime for 10^975
+21.290
+Found first prime for 10^976
+5.240
+Found first prime for 10^977
+41.090
+Found first prime for 10^978
+58.330
+Found first prime for 10^979
+65.060
+Found first prime for 10^980
+84.870
+Found first prime for 10^981
+16.390
+Found first prime for 10^982
+51.340
+Found first prime for 10^983
+42.690
+Found first prime for 10^984
+24.280
+Found first prime for 10^985
+23.090
+Found first prime for 10^986
+40.900
+Found first prime for 10^987
+17.630
+Found first prime for 10^988
+35.680
+Found first prime for 10^989
+28.480
+Found first prime for 10^990
+12.800
+Found first prime for 10^991
+9.770
+Found first prime for 10^992
+170.300
+Found first prime for 10^993
+20.690
+Found first prime for 10^994
+48.130
+Found first prime for 10^995
+207.980
+Found first prime for 10^996
+57.090
+Found first prime for 10^997
+19.900
+Found first prime for 10^998
+0.330
+Found first prime for 10^999
+11.300
+Found first prime for 10^1000
+219.420
+Found first prime for 10^1001
+32.960
+Found first prime for 10^1002
+1.840
+Found first prime for 10^1003
+15.730
+Found first prime for 10^1004
+26.340
+Found first prime for 10^1005
+3.830
+Found first prime for 10^1006
+87.910
+Found first prime for 10^1007
+84.120
+Found first prime for 10^1008
+1.420
+Found first prime for 10^1009
+5.300
+Found first prime for 10^1010
+121.180
+Found first prime for 10^1011
+93.530
+Found first prime for 10^1012
+19.710
+Found first prime for 10^1013
+121.790
+Found first prime for 10^1014
+26.440
+Found first prime for 10^1015
+45.270
+Found first prime for 10^1016
+113.840
+Found first prime for 10^1017
+79.780
+Found first prime for 10^1018
+241.540
+Found first prime for 10^1019
+20.080
+Found first prime for 10^1020
+38.900
+Found first prime for 10^1021
+23.050
+Found first prime for 10^1022
+81.860
+Found first prime for 10^1023
+34.440
+Found first prime for 10^1024
+30.870
+Found first prime for 10^1025
+116.250
+Found first prime for 10^1026
+118.170
+Found first prime for 10^1027
+40.780
+Found first prime for 10^1028
+42.230
+Found first prime for 10^1029
+99.210
+Found first prime for 10^1030
+309.220
+Found first prime for 10^1031
+48.160
+Found first prime for 10^1032
+11.520
+Found first prime for 10^1033
+8.220
+Found first prime for 10^1034
+53.710
+Found first prime for 10^1035
+20.170
+Found first prime for 10^1036
+24.500
+Found first prime for 10^1037
+32.780
+Found first prime for 10^1038
+39.430
+Found first prime for 10^1039
+95.980
+Found first prime for 10^1040
+7.610
+Found first prime for 10^1041
+59.410
+Found first prime for 10^1042
+164.130
+Found first prime for 10^1043
+31.260
+Found first prime for 10^1044
+24.980
+Found first prime for 10^1045
+12.890
+Found first prime for 10^1046
+55.150
+Found first prime for 10^1047
+9.270
+Found first prime for 10^1048
+5.040
+Found first prime for 10^1049
+34.530
+Found first prime for 10^1050
+70.490
+Found first prime for 10^1051
+51.700
+Found first prime for 10^1052
+24.670
+Found first prime for 10^1053
+56.690
+Found first prime for 10^1054
+76.580
+Found first prime for 10^1055
+7.390
+Found first prime for 10^1056
+22.030
+Found first prime for 10^1057
+20.570
+Found first prime for 10^1058
+162.830
+Found first prime for 10^1059
+40.140
+Found first prime for 10^1060
+58.830
+Found first prime for 10^1061
+24.540
+Found first prime for 10^1062
+68.450
+Found first prime for 10^1063
+59.660
+Found first prime for 10^1064
+14.940
+Found first prime for 10^1065
+92.010
+Found first prime for 10^1066
+17.850
+Found first prime for 10^1067
+19.900
+Found first prime for 10^1068
+0.750
+Found first prime for 10^1069
+1.680
+Found first prime for 10^1070
+7.400
+Found first prime for 10^1071
+23.090
+Found first prime for 10^1072
+199.530
+Found first prime for 10^1073
+17.000
+Found first prime for 10^1074
+237.210
+Found first prime for 10^1075
+41.810
+Found first prime for 10^1076
+21.550
+Found first prime for 10^1077
+78.670
+Found first prime for 10^1078
+5.620
+Found first prime for 10^1079
+98.170
+Found first prime for 10^1080
+73.260
+Found first prime for 10^1081
+142.050
+Found first prime for 10^1082
+56.250
+Found first prime for 10^1083
+150.950
+Found first prime for 10^1084
+82.500
+Found first prime for 10^1085
+50.830
+Found first prime for 10^1086
+45.940
+Found first prime for 10^1087
+21.190
+Found first prime for 10^1088
+180.770
+Found first prime for 10^1089
+110.620
+Found first prime for 10^1090
+129.560
+Found first prime for 10^1091
+189.500
+Found first prime for 10^1092
+34.260
+Found first prime for 10^1093
+108.160
+Found first prime for 10^1094
+5.190
+Found first prime for 10^1095
+234.680
+Found first prime for 10^1096
+45.130
+Found first prime for 10^1097
+13.420
+Found first prime for 10^1098
+2.670
+Found first prime for 10^1099
+39.260
+Found first prime for 10^1100
+101.710
+Found first prime for 10^1101
+148.710
+Found first prime for 10^1102
+53.460
+Found first prime for 10^1103
+191.800
+Found first prime for 10^1104
+156.350
+Found first prime for 10^1105
+28.090
+Found first prime for 10^1106
+46.860
+Found first prime for 10^1107
+52.550
+Found first prime for 10^1108
+58.860
+Found first prime for 10^1109
+80.460
+Found first prime for 10^1110
+17.940
+Found first prime for 10^1111
+155.930
+Found first prime for 10^1112
+44.490
+Found first prime for 10^1113
+36.580
+Found first prime for 10^1114
+12.910
+Found first prime for 10^1115
+84.710
+Found first prime for 10^1116
+13.130
+Found first prime for 10^1117
+73.940
+Found first prime for 10^1118
+97.100
+Found first prime for 10^1119
+173.090
+Found first prime for 10^1120
+33.440
+Found first prime for 10^1121
+5.750
+Found first prime for 10^1122
+162.240
+Found first prime for 10^1123
+126.760
+Found first prime for 10^1124
+153.020
+Found first prime for 10^1125
+9.740
+Found first prime for 10^1126
+107.020
+Found first prime for 10^1127
+192.530
+Found first prime for 10^1128
+1.620
+Found first prime for 10^1129
+251.020
+Found first prime for 10^1130
+10.660
+Found first prime for 10^1131
+38.830
+Found first prime for 10^1132
+50.320
+Found first prime for 10^1133
+81.680
+Found first prime for 10^1134
+148.770
+Found first prime for 10^1135
+37.570
+Found first prime for 10^1136
+362.850
+Found first prime for 10^1137
+58.210
+Found first prime for 10^1138
+103.290
+Found first prime for 10^1139
+12.560
+Found first prime for 10^1140
+262.530
+Found first prime for 10^1141
+147.860
+Found first prime for 10^1142
+14.800
+Found first prime for 10^1143
+40.460
+Found first prime for 10^1144
+234.590
+Found first prime for 10^1145
+131.310
+Found first prime for 10^1146
+237.200
+Found first prime for 10^1147
+15.400
+Found first prime for 10^1148
+49.480
+Found first prime for 10^1149
+303.470
+Found first prime for 10^1150
+3.830
+Found first prime for 10^1151
+148.060
+Found first prime for 10^1152
+40.370
+Found first prime for 10^1153
+13.340
+Found first prime for 10^1154
+18.620
+Found first prime for 10^1155
+387.890
+Found first prime for 10^1156
+534.780
+Found first prime for 10^1157
+49.170
+Found first prime for 10^1158
+101.730
+Found first prime for 10^1159
+523.730
+Found first prime for 10^1160
+8.010
+Found first prime for 10^1161
+64.690
+Found first prime for 10^1162
+372.710
+Found first prime for 10^1163
+160.030
+Found first prime for 10^1164
+145.090
+Found first prime for 10^1165
+415.550
+Found first prime for 10^1166
+42.800
+Found first prime for 10^1167
+124.580
+Found first prime for 10^1168
+222.270
+Found first prime for 10^1169
+192.510
+Found first prime for 10^1170
+3.830
+Found first prime for 10^1171
+309.320
+Found first prime for 10^1172
+94.210
+Found first prime for 10^1173
+329.760
+Found first prime for 10^1174
+132.270
+Found first prime for 10^1175
+37.250
+Found first prime for 10^1176
+32.100
+Found first prime for 10^1177
+105.250
+Found first prime for 10^1178
+3.850
+Found first prime for 10^1179
+35.630
+Found first prime for 10^1180
+12.820
+Found first prime for 10^1181
+228.790
+Found first prime for 10^1182
+171.900
+Found first prime for 10^1183
+3.600
+Found first prime for 10^1184
+173.100
+Found first prime for 10^1185
+6.310
+Found first prime for 10^1186
+51.630
+Found first prime for 10^1187
+185.230
+Found first prime for 10^1188
+17.950
+Found first prime for 10^1189
+115.720
+Found first prime for 10^1190
+82.770
+Found first prime for 10^1191
+19.670
+Found first prime for 10^1192
+179.270
+Found first prime for 10^1193
+15.370
+Found first prime for 10^1194
+240.310
+Found first prime for 10^1195
+20.390
+Found first prime for 10^1196
+248.020
+Found first prime for 10^1197
+40.060
+Found first prime for 10^1198
+155.830
+Found first prime for 10^1199
+199.540
+Found first prime for 10^1200
+8.070
+Found first prime for 10^1201
+55.950
+Found first prime for 10^1202
+24.740
+Found first prime for 10^1203
+19.690
+Found first prime for 10^1204
+79.270
+Found first prime for 10^1205
+35.910
+Found first prime for 10^1206
+80.120
+Found first prime for 10^1207
+73.120
+Found first prime for 10^1208
+10.340
+Found first prime for 10^1209
+11.870
+Found first prime for 10^1210
+111.440
+Found first prime for 10^1211
+58.520
+Found first prime for 10^1212
+155.770
+Found first prime for 10^1213
+55.970
+Found first prime for 10^1214
+265.010
+Found first prime for 10^1215
+21.330
+Found first prime for 10^1216
+96.700
+Found first prime for 10^1217
+121.700
+Found first prime for 10^1218
+57.640
+Found first prime for 10^1219
+71.680
+Found first prime for 10^1220
+52.150
+Found first prime for 10^1221
+60.780
+Found first prime for 10^1222
+18.920
+Found first prime for 10^1223
+101.450
+Found first prime for 10^1224
+2.230
+Found first prime for 10^1225
+99.640
+Found first prime for 10^1226
+121.870
+Found first prime for 10^1227
+331.120
+Found first prime for 10^1228
+4.450
+Found first prime for 10^1229
+7.910
+Found first prime for 10^1230
+259.070
+Found first prime for 10^1231
+299.080
+Found first prime for 10^1232
+50.220
+Found first prime for 10^1233
+190.690
+Found first prime for 10^1234
+98.670
+Found first prime for 10^1235
+21.210
+Found first prime for 10^1236
+430.800
+Found first prime for 10^1237
+90.760
+Found first prime for 10^1238
+142.340
+Found first prime for 10^1239
+139.140
+Found first prime for 10^1240
+276.490
+Found first prime for 10^1241
+126.180
+Found first prime for 10^1242
+3.930
+Found first prime for 10^1243
+224.780
+Found first prime for 10^1244
+96.590
+Found first prime for 10^1245
+68.960
+Found first prime for 10^1246
+438.880
+Found first prime for 10^1247
+35.000
+Found first prime for 10^1248
+25.470
+Found first prime for 10^1249
+13.370
+Found first prime for 10^1250
+149.880
+Found first prime for 10^1251
+96.090
+Found first prime for 10^1252
+214.450
+Found first prime for 10^1253
+122.920
+Found first prime for 10^1254
+103.970
+Found first prime for 10^1255
+154.680
+Found first prime for 10^1256
+174.720
+Found first prime for 10^1257
+18.800
+Found first prime for 10^1258
+218.050
+Found first prime for 10^1259
+319.500
+Found first prime for 10^1260
+13.450
+Found first prime for 10^1261
+7.490
+Found first prime for 10^1262
+48.620
+Found first prime for 10^1263
+205.400
+Found first prime for 10^1264
+123.010
+Found first prime for 10^1265
+118.380
+Found first prime for 10^1266
+25.440
+Found first prime for 10^1267
+51.640
+Found first prime for 10^1268
+61.440
+Found first prime for 10^1269
+234.840
+Found first prime for 10^1270
+228.830
+Found first prime for 10^1271
+190.070
+Found first prime for 10^1272
+197.680
+Found first prime for 10^1273
+159.930
+Found first prime for 10^1274
+459.610
+Found first prime for 10^1275
+75.970
+Found first prime for 10^1276
+54.730
+Found first prime for 10^1277
+288.180
+Found first prime for 10^1278
+478.860
+Found first prime for 10^1279
+107.210
+Found first prime for 10^1280
+54.290
+Found first prime for 10^1281
+271.110
+Found first prime for 10^1282
+22.290
+Found first prime for 10^1283
+134.680
+Found first prime for 10^1284
+199.120
+Found first prime for 10^1285
+106.650
+Found first prime for 10^1286
+196.120
+Found first prime for 10^1287
+175.730
+Found first prime for 10^1288
+432.300
+Found first prime for 10^1289
+124.740
+Found first prime for 10^1290
+13.720
+Found first prime for 10^1291
+95.250
+Found first prime for 10^1292
+104.790
+Found first prime for 10^1293
+433.140
+Found first prime for 10^1294
+243.280
+Found first prime for 10^1295
+159.730
+Found first prime for 10^1296
+104.450
+Found first prime for 10^1297
+7.640
+Found first prime for 10^1298
+164.040
+Found first prime for 10^1299
+545.440
+Found first prime for 10^1300
+24.420
+Found first prime for 10^1301
+96.800
+Found first prime for 10^1302
+35.920
+Found first prime for 10^1303
+377.330
+Found first prime for 10^1304
+493.120
+Found first prime for 10^1305
+91.330
+Found first prime for 10^1306
+7.600
+Found first prime for 10^1307
+54.330
+Found first prime for 10^1308
+35.310
+Found first prime for 10^1309
+30.400
+Found first prime for 10^1310
+86.260
+Found first prime for 10^1311
+79.790
+Found first prime for 10^1312
+39.130
+Found first prime for 10^1313
+205.350
+Found first prime for 10^1314
+98.700
+Found first prime for 10^1315
+359.290
+Found first prime for 10^1316
+30.830
+Found first prime for 10^1317
+14.790
+Found first prime for 10^1318
+25.960
+Found first prime for 10^1319
+201.870
+Found first prime for 10^1320
+124.650
+Found first prime for 10^1321
+110.490
+Found first prime for 10^1322
+188.170
+Found first prime for 10^1323
+133.690
+Found first prime for 10^1324
+102.140
+Found first prime for 10^1325
+48.130
+Found first prime for 10^1326
+8.560
+Found first prime for 10^1327
+77.250
+Found first prime for 10^1328
+47.890
+Found first prime for 10^1329
+258.480
+Found first prime for 10^1330
+61.440
+Found first prime for 10^1331
+346.130
+Found first prime for 10^1332
+45.990
+Found first prime for 10^1333
+165.170
+Found first prime for 10^1334
+121.460
+Found first prime for 10^1335
+57.170
+Found first prime for 10^1336
+339.940
+Found first prime for 10^1337
+806.560
+Found first prime for 10^1338
+162.210
+Found first prime for 10^1339
+85.720
+Found first prime for 10^1340
+164.900
+Found first prime for 10^1341
+367.290
+Found first prime for 10^1342
+38.680
+Found first prime for 10^1343
+34.100
+Found first prime for 10^1344
+173.310
+Found first prime for 10^1345
+117.280
+Found first prime for 10^1346
+161.680
+Found first prime for 10^1347
+174.980
+Found first prime for 10^1348
+35.220
+Found first prime for 10^1349
+14.970
+Found first prime for 10^1350
+19.890
+Found first prime for 10^1351
+486.080
+Found first prime for 10^1352
+178.400
+Found first prime for 10^1353
+15.210
+Found first prime for 10^1354
+111.580
+Found first prime for 10^1355
+86.090
+Found first prime for 10^1356
+110.580
+Found first prime for 10^1357
+18.580
+Found first prime for 10^1358
+30.730
+Found first prime for 10^1359
+513.520
+Found first prime for 10^1360
+229.190
+Found first prime for 10^1361
+66.200
+Found first prime for 10^1362
+61.410
+Found first prime for 10^1363
+78.410
+Found first prime for 10^1364
+82.280
+Found first prime for 10^1365
+93.470
+Found first prime for 10^1366
+98.700
+Found first prime for 10^1367
+22.760
+Found first prime for 10^1368
+152.890
+Found first prime for 10^1369
+112.790
+Found first prime for 10^1370
+25.960
+Found first prime for 10^1371
+217.260
+Found first prime for 10^1372
+15.880
+Found first prime for 10^1373
+79.790
+Found first prime for 10^1374
+78.620
+Found first prime for 10^1375
+40.810
+Found first prime for 10^1376
+57.890
+Found first prime for 10^1377
+258.750
+Found first prime for 10^1378
+95.330
+Found first prime for 10^1379
+123.240
+Found first prime for 10^1380
+33.460
+Found first prime for 10^1381
+31.330
+Found first prime for 10^1382
+0.800
+Found first prime for 10^1383
+146.110
+Found first prime for 10^1384
+103.400
+Found first prime for 10^1385
+22.540
+Found first prime for 10^1386
+23.130
+Found first prime for 10^1387
+107.150
+Found first prime for 10^1388
+65.190
+Found first prime for 10^1389
+36.170
+Found first prime for 10^1390
+6.450
+Found first prime for 10^1391
+20.040
+Found first prime for 10^1392
+7.760
+Found first prime for 10^1393
+214.660
+Found first prime for 10^1394
+96.670
+Found first prime for 10^1395
+207.890
+Found first prime for 10^1396
+83.350
+Found first prime for 10^1397
+91.330
+Found first prime for 10^1398
+215.260
+Found first prime for 10^1399
+799.660
+Found first prime for 10^1400
+663.250
+Found first prime for 10^1401
+47.150
+Found first prime for 10^1402
+182.600
+Found first prime for 10^1403
+389.620
+Found first prime for 10^1404
+260.100
+Found first prime for 10^1405
+443.260
+Found first prime for 10^1406
+83.100
+Found first prime for 10^1407
+33.980
+Found first prime for 10^1408
+11.490
+Found first prime for 10^1409
+207.930
+Found first prime for 10^1410
+19.340
+Found first prime for 10^1411
+1265.630
+Found first prime for 10^1412
+90.000
+Found first prime for 10^1413
+37.730
+Found first prime for 10^1414
+152.350
+Found first prime for 10^1415
+130.790
+Found first prime for 10^1416
+311.500
+Found first prime for 10^1417
+51.620
+Found first prime for 10^1418
+531.260
+Found first prime for 10^1419
+847.790
+Found first prime for 10^1420
+185.480
+Found first prime for 10^1421
+103.220
+Found first prime for 10^1422
+38.550
+Found first prime for 10^1423
+37.290
+Found first prime for 10^1424
+430.470
+Found first prime for 10^1425
+306.260
+Found first prime for 10^1426
+8.110
+Found first prime for 10^1427
+215.610
+Found first prime for 10^1428
+43.890
+Found first prime for 10^1429
+97.620
+Found first prime for 10^1430
+88.800
+Found first prime for 10^1431
+460.120
+Found first prime for 10^1432
+74.600
+Found first prime for 10^1433
+67.340
+Found first prime for 10^1434
+662.820
+Found first prime for 10^1435
+370.720
+Found first prime for 10^1436
+182.020
+Found first prime for 10^1437
+41.160
+Found first prime for 10^1438
+98.280
+Found first prime for 10^1439
+1254.930
+Found first prime for 10^1440
+3.330
+Found first prime for 10^1441
+386.920
+Found first prime for 10^1442
+13.110
+Found first prime for 10^1443
+78.980
+Found first prime for 10^1444
+280.340
+Found first prime for 10^1445
+385.550
+Found first prime for 10^1446
+566.050
+Found first prime for 10^1447
+101.460
+Found first prime for 10^1448
+202.060
+Found first prime for 10^1449
+222.770
+Found first prime for 10^1450
+226.860
+Found first prime for 10^1451
+155.780
+Found first prime for 10^1452
+122.810
+Found first prime for 10^1453
+4.970
+Found first prime for 10^1454
+193.840
+Found first prime for 10^1455
+604.410
+Found first prime for 10^1456
+663.840
+Found first prime for 10^1457
+445.350
+Found first prime for 10^1458
+32.830
+Found first prime for 10^1459
+25.920
+Found first prime for 10^1460
+537.130
+Found first prime for 10^1461
+365.300
+Found first prime for 10^1462
+189.900
+Found first prime for 10^1463
+203.970
+Found first prime for 10^1464
+87.950
+Found first prime for 10^1465
+91.330
+Found first prime for 10^1466
+106.830
+Found first prime for 10^1467
+87.940
+Found first prime for 10^1468
+246.070
+Found first prime for 10^1469
+281.730
+Found first prime for 10^1470
+81.830
+Found first prime for 10^1471
+421.310
+Found first prime for 10^1472
+92.890
+Found first prime for 10^1473
+19.530
+Found first prime for 10^1474
+469.770
+Found first prime for 10^1475
+454.550
+Found first prime for 10^1476
+19.250
+Found first prime for 10^1477
+15.350
+Found first prime for 10^1478
+242.050
+Found first prime for 10^1479
+210.870
+Found first prime for 10^1480
+250.360
+Found first prime for 10^1481
+263.700
+Found first prime for 10^1482
+272.650
+Found first prime for 10^1483
+717.540
+Found first prime for 10^1484
+1547.650
+Found first prime for 10^1485
+76.450
+Found first prime for 10^1486
+337.730
+Found first prime for 10^1487
+380.220
+Found first prime for 10^1488
+409.290
+Found first prime for 10^1489
+217.420
+Found first prime for 10^1490
+101.740
+Found first prime for 10^1491
+110.450
+Found first prime for 10^1492
+454.100
+Found first prime for 10^1493
+302.910
+Found first prime for 10^1494
+281.680
+Found first prime for 10^1495
+770.870
+Found first prime for 10^1496
+103.330
+Found first prime for 10^1497
+304.030
+Found first prime for 10^1498
+149.110
+Found first prime for 10^1499
+175.240
+Found first prime for 10^1500
+609.100
+Found first prime for 10^1501
+137.900
+Found first prime for 10^1502
+34.530
+Found first prime for 10^1503
+182.430
+Found first prime for 10^1504
+19.410
+Found first prime for 10^1505
+278.030
+Found first prime for 10^1506
+290.720
+Found first prime for 10^1507
+49.140
+Found first prime for 10^1508
+248.820
+Found first prime for 10^1509
+39.040
+Found first prime for 10^1510
+153.600
+Found first prime for 10^1511
+88.920
+Found first prime for 10^1512
+56.480
+Found first prime for 10^1513
+34.730
+Found first prime for 10^1514
+395.300
+Found first prime for 10^1515
+19.120
+Found first prime for 10^1516
+330.010
+Found first prime for 10^1517
+106.710
+Found first prime for 10^1518
+322.910
+Found first prime for 10^1519
+144.170
+Found first prime for 10^1520
+85.290
+Found first prime for 10^1521
+320.100
+Found first prime for 10^1522
+5.990
+Found first prime for 10^1523
+392.640
+Found first prime for 10^1524
+90.680
+Found first prime for 10^1525
+376.860
+Found first prime for 10^1526
+775.490
+Found first prime for 10^1527
+3.630
+Found first prime for 10^1528
+360.040
+Found first prime for 10^1529
+207.760
+Found first prime for 10^1530
+128.820
+Found first prime for 10^1531
+241.850
+Found first prime for 10^1532
+335.600
+Found first prime for 10^1533
+191.420
+Found first prime for 10^1534
+327.870
+Found first prime for 10^1535
+71.990
+Found first prime for 10^1536
+2.190
+Found first prime for 10^1537
+181.890
+Found first prime for 10^1538
+576.010
+Found first prime for 10^1539
+31.390
+Found first prime for 10^1540
+655.440
+Found first prime for 10^1541
+68.490
+Found first prime for 10^1542
+712.430
+Found first prime for 10^1543
+499.360
+Found first prime for 10^1544
+523.940
+Found first prime for 10^1545
+369.170
+Found first prime for 10^1546
+412.420
+Found first prime for 10^1547
+89.320
+Found first prime for 10^1548
+689.050
+Found first prime for 10^1549
+114.810
+Found first prime for 10^1550
+189.880
+Found first prime for 10^1551
+12.530
+Found first prime for 10^1552
+17.970
+Found first prime for 10^1553
+198.480
+Found first prime for 10^1554
+255.090
+Found first prime for 10^1555
+142.180
+Found first prime for 10^1556
+650.560
+Found first prime for 10^1557
+358.310
+Found first prime for 10^1558
+302.760
+Found first prime for 10^1559
+52.050
+Found first prime for 10^1560
+152.070
+Found first prime for 10^1561
+169.810
+Found first prime for 10^1562
+249.170
+Found first prime for 10^1563
+29.410
+Found first prime for 10^1564
+120.360
+Found first prime for 10^1565
+3.480
+Found first prime for 10^1566
+753.260
+Found first prime for 10^1567
+492.350
+Found first prime for 10^1568
+401.240
+Found first prime for 10^1569
+56.510
+Found first prime for 10^1570
+483.610
+Found first prime for 10^1571
+526.270
+Found first prime for 10^1572
+129.330
+Found first prime for 10^1573
+122.780
+Found first prime for 10^1574
+133.490
+Found first prime for 10^1575
+212.370
+Found first prime for 10^1576
+534.400
+Found first prime for 10^1577
+382.480
+Found first prime for 10^1578
+148.260
+Found first prime for 10^1579
+663.070
+Found first prime for 10^1580
+284.320
+Found first prime for 10^1581
+66.790
+Found first prime for 10^1582
+122.180
+Found first prime for 10^1583
+176.820
+Found first prime for 10^1584
+417.100
+Found first prime for 10^1585
+305.680
+Found first prime for 10^1586
+230.260
+Found first prime for 10^1587
+73.710
+Found first prime for 10^1588
+43.370
+Found first prime for 10^1589
+222.490
+Found first prime for 10^1590
+673.370
+Found first prime for 10^1591
+530.910
+Found first prime for 10^1592
+585.270
+Found first prime for 10^1593
+820.890
+Found first prime for 10^1594
+1214.520
+Found first prime for 10^1595
+451.060
+Found first prime for 10^1596
+25.020
+Found first prime for 10^1597
+244.200
+Found first prime for 10^1598
+47.660
+Found first prime for 10^1599
+90.600
+Found first prime for 10^1600
+131.390
+Found first prime for 10^1601
+316.620
+Found first prime for 10^1602
+119.380
+Found first prime for 10^1603
+28.470
+Found first prime for 10^1604
+612.070
+Found first prime for 10^1605
+595.170
+Found first prime for 10^1606
+600.780
+Found first prime for 10^1607
+785.960
+Found first prime for 10^1608
+262.410
+Found first prime for 10^1609
+377.900
+Found first prime for 10^1610
+385.860
+Found first prime for 10^1611
+251.880
+Found first prime for 10^1612
+157.560
+Found first prime for 10^1613
+222.840
+Found first prime for 10^1614
+234.440
+Found first prime for 10^1615
+120.080
+Found first prime for 10^1616
+1116.150
+Found first prime for 10^1617
+617.740
+Found first prime for 10^1618
+286.580
+Found first prime for 10^1619
+822.340
+Found first prime for 10^1620
+270.150
+Found first prime for 10^1621
+386.410
+Found first prime for 10^1622
+86.380
+Found first prime for 10^1623
+117.920
+Found first prime for 10^1624
+1185.970
+Found first prime for 10^1625
+327.680
+Found first prime for 10^1626
+3.690
+Found first prime for 10^1627
+93.340
+Found first prime for 10^1628
+717.870
+Found first prime for 10^1629
+287.590
+Found first prime for 10^1630
+1372.980
+Found first prime for 10^1631
+15.600
+Found first prime for 10^1632
+132.590
+Found first prime for 10^1633
+74.240
+Found first prime for 10^1634
+269.540
+Found first prime for 10^1635
+38.650
+Found first prime for 10^1636
+109.150
+Found first prime for 10^1637
+827.010
+Found first prime for 10^1638
+63.890
+Found first prime for 10^1639
+178.090
+Found first prime for 10^1640
+232.250
+Found first prime for 10^1641
+385.830
+Found first prime for 10^1642
+353.430
+Found first prime for 10^1643
+401.650
+Found first prime for 10^1644
+89.950
+Found first prime for 10^1645
+711.900
+Found first prime for 10^1646
+19.590
+Found first prime for 10^1647
+172.390
+Found first prime for 10^1648
+13.000
+Found first prime for 10^1649
+68.420
+Found first prime for 10^1650
+161.090
+Found first prime for 10^1651
+214.430
+Found first prime for 10^1652
+92.300
+Found first prime for 10^1653
+531.850
+Found first prime for 10^1654
+358.870
+Found first prime for 10^1655
+347.720
+Found first prime for 10^1656
+229.350
+Found first prime for 10^1657
+710.870
+Found first prime for 10^1658
+773.360
+Found first prime for 10^1659
+167.810
+Found first prime for 10^1660
+328.440
+Found first prime for 10^1661
+502.560
+Found first prime for 10^1662
+336.230
+Found first prime for 10^1663
+142.580
+Found first prime for 10^1664
+51.800
+Found first prime for 10^1665
+50.770
+Found first prime for 10^1666
+898.330
+Found first prime for 10^1667
+869.130
+Found first prime for 10^1668
+1064.540
+Found first prime for 10^1669
+18.700
+Found first prime for 10^1670
+508.780
+Found first prime for 10^1671
+579.460
+Found first prime for 10^1672
+538.500
+Found first prime for 10^1673
+231.090
+Found first prime for 10^1674
+204.980
+Found first prime for 10^1675
+458.960
+Found first prime for 10^1676
+268.760
+Found first prime for 10^1677
+943.280
+Found first prime for 10^1678
+392.230
+Found first prime for 10^1679
+314.470
+Found first prime for 10^1680
+231.490
+Found first prime for 10^1681
+74.160
+Found first prime for 10^1682
+37.870
+Found first prime for 10^1683
+27.460
+Found first prime for 10^1684
+64.090
+Found first prime for 10^1685
+60.110
+Found first prime for 10^1686
+1041.520
+Found first prime for 10^1687
+91.930
+Found first prime for 10^1688
+69.460
+Found first prime for 10^1689
+342.490
+Found first prime for 10^1690
+645.200
+Found first prime for 10^1691
+464.840
+Found first prime for 10^1692
+288.800
+Found first prime for 10^1693
+215.370
+Found first prime for 10^1694
+508.780
+Found first prime for 10^1695
+7.540
+Found first prime for 10^1696
+226.090
+Found first prime for 10^1697
+158.280
+Found first prime for 10^1698
+54.150
+Found first prime for 10^1699
+52.010
+Found first prime for 10^1700
+2336.150
+Found first prime for 10^1701
+105.530
+Found first prime for 10^1702
+310.460
+Found first prime for 10^1703
+42.860
+Found first prime for 10^1704
+165.860
+Found first prime for 10^1705
+218.840
+Found first prime for 10^1706
+745.340
+Found first prime for 10^1707
+70.220
+Found first prime for 10^1708
+322.670
+Found first prime for 10^1709
+99.870
+Found first prime for 10^1710
+296.620
+Found first prime for 10^1711
+237.610
+Found first prime for 10^1712
+178.350
+Found first prime for 10^1713
+151.960
+Found first prime for 10^1714
+52.600
+Found first prime for 10^1715
+107.850
+Found first prime for 10^1716
+267.490
+Found first prime for 10^1717
+388.850
+Found first prime for 10^1718
+112.910
+Found first prime for 10^1719
+161.100
+Found first prime for 10^1720
+1142.810
+Found first prime for 10^1721
+202.090
+Found first prime for 10^1722
+356.490
+Found first prime for 10^1723
+101.040
+Found first prime for 10^1724
+54.250
+Found first prime for 10^1725
+124.740
+Found first prime for 10^1726
+1149.280
+Found first prime for 10^1727
+1948.370
+Found first prime for 10^1728
+445.780
+Found first prime for 10^1729
+143.160
+Found first prime for 10^1730
+6.460
+Found first prime for 10^1731
+11.510
+Found first prime for 10^1732
+205.050
+Found first prime for 10^1733
+238.600
+Found first prime for 10^1734
+90.890
+Found first prime for 10^1735
+275.850
+Found first prime for 10^1736
+406.060
+Found first prime for 10^1737
+384.380
+Found first prime for 10^1738
+169.170
+Found first prime for 10^1739
+491.310
+Found first prime for 10^1740
+327.500
+Found first prime for 10^1741
+807.750
+Found first prime for 10^1742
+1565.930
+Found first prime for 10^1743
+242.560
+Found first prime for 10^1744
+741.990
+Found first prime for 10^1745
+516.490
+Found first prime for 10^1746
+982.470
+Found first prime for 10^1747
+726.300
+Found first prime for 10^1748
+152.430
+Found first prime for 10^1749
+422.330
+Found first prime for 10^1750
+313.300
+Found first prime for 10^1751
+306.490
+Found first prime for 10^1752
+549.840
+Found first prime for 10^1753
+308.510
+Found first prime for 10^1754
+549.780
+Found first prime for 10^1755
+819.630
+Found first prime for 10^1756
+446.760
+Found first prime for 10^1757
+186.650
+Found first prime for 10^1758
+3.020
+Found first prime for 10^1759
+239.020
+Found first prime for 10^1760
+1059.840
+Found first prime for 10^1761
+3364.850
+Found first prime for 10^1762
+99.900
+Found first prime for 10^1763
+7.690
+Found first prime for 10^1764
+1332.620
+Found first prime for 10^1765
+251.390
+Found first prime for 10^1766
+167.670
+Found first prime for 10^1767
+711.000
+Found first prime for 10^1768
+72.000
+Found first prime for 10^1769
+298.330
+Found first prime for 10^1770
+1248.550
+Found first prime for 10^1771
+50.640
+Found first prime for 10^1772
+158.410
+Found first prime for 10^1773
+98.040
+Found first prime for 10^1774
+1382.440
+Found first prime for 10^1775
+1045.680
+Found first prime for 10^1776
+6.650
+Found first prime for 10^1777
+59.490
+Found first prime for 10^1778
+556.400
+Found first prime for 10^1779
+106.110
+Found first prime for 10^1780
+315.990
+Found first prime for 10^1781
+105.240
+Found first prime for 10^1782
+278.240
+Found first prime for 10^1783
+76.500
+Found first prime for 10^1784
+640.140
+Found first prime for 10^1785
+633.030
+Found first prime for 10^1786
+160.520
+Found first prime for 10^1787
+719.700
+Found first prime for 10^1788
+178.000
+Found first prime for 10^1789
+149.400
+Found first prime for 10^1790
+129.380
+Found first prime for 10^1791
+566.920
+Found first prime for 10^1792
+849.260
+Found first prime for 10^1793
+444.410
+Found first prime for 10^1794
+816.850
+Found first prime for 10^1795
+611.530
+Found first prime for 10^1796
+174.380
+Found first prime for 10^1797
+182.250
+Found first prime for 10^1798
+245.670
+Found first prime for 10^1799
+1054.980
+Found first prime for 10^1800
+1391.100
+Found first prime for 10^1801
+126.170
+Found first prime for 10^1802
+229.140
+Found first prime for 10^1803
+82.280
+Found first prime for 10^1804
+1078.720
+Found first prime for 10^1805
+238.540
+Found first prime for 10^1806
+190.430
+Found first prime for 10^1807
+111.080
+Found first prime for 10^1808
+137.420
+Found first prime for 10^1809
+41.240
+Found first prime for 10^1810
+38.090
+Found first prime for 10^1811
+127.870
+Found first prime for 10^1812
+22.470
+Found first prime for 10^1813
+96.190
+Found first prime for 10^1814
+72.410
+Found first prime for 10^1815
+564.700
+Found first prime for 10^1816
+733.460
+Found first prime for 10^1817
+427.450
+Found first prime for 10^1818
+346.350
+Found first prime for 10^1819
+323.260
+Found first prime for 10^1820
+2163.180
+Found first prime for 10^1821
+582.160
+Found first prime for 10^1822
+353.400
+Found first prime for 10^1823
+296.320
+Found first prime for 10^1824
+538.010
+Found first prime for 10^1825
+276.450
+Found first prime for 10^1826
+587.040
+Found first prime for 10^1827
+1529.460
+Found first prime for 10^1828
+364.340
+Found first prime for 10^1829
+2154.760
+Found first prime for 10^1830
+2276.700
+Found first prime for 10^1831
+296.390
+Found first prime for 10^1832
+414.760
+Found first prime for 10^1833
+668.720
+Found first prime for 10^1834
+612.840
+Found first prime for 10^1835
+756.500
+Found first prime for 10^1836
+221.700
+Found first prime for 10^1837
+139.580
+Found first prime for 10^1838
+777.740
+Found first prime for 10^1839
+254.180
+Found first prime for 10^1840
+249.070
+Found first prime for 10^1841
+1557.020
+Found first prime for 10^1842
+1192.060
+Found first prime for 10^1843
+127.210
+Found first prime for 10^1844
+400.590
+Found first prime for 10^1845
+660.990
+Found first prime for 10^1846
+2222.070
+Found first prime for 10^1847
+615.950
+Found first prime for 10^1848
+296.350
+Found first prime for 10^1849
+1202.040
+Found first prime for 10^1850
+260.280
+Found first prime for 10^1851
+1244.240
+Found first prime for 10^1852
+1223.340
+Found first prime for 10^1853
+204.040
+Found first prime for 10^1854
+1030.470
+Found first prime for 10^1855
+130.920
+Found first prime for 10^1856
+209.610
+Found first prime for 10^1857
+1169.010
+Found first prime for 10^1858
+194.310
+Found first prime for 10^1859
+2443.330
+Found first prime for 10^1860
+1230.610
+Found first prime for 10^1861
+335.750
+Found first prime for 10^1862
+1627.230
+Found first prime for 10^1863
+2262.170
+Found first prime for 10^1864
+1407.460
+Found first prime for 10^1865
+730.980
+Found first prime for 10^1866
+1309.990
+Found first prime for 10^1867
+63.310
+Found first prime for 10^1868
+720.630
+Found first prime for 10^1869
+1266.190
+Found first prime for 10^1870
+185.750
+Found first prime for 10^1871
+2232.710
+Found first prime for 10^1872
+2556.190
+Found first prime for 10^1873
+729.380
+Found first prime for 10^1874
+1070.650
+Found first prime for 10^1875
+347.870
+Found first prime for 10^1876
+838.980
+Found first prime for 10^1877
+2124.320
+Found first prime for 10^1878
+422.540
+Found first prime for 10^1879
+168.440
+Found first prime for 10^1880
+17.410
+Found first prime for 10^1881
+184.130
+Found first prime for 10^1882
+445.260
+Found first prime for 10^1883
+350.680
+Found first prime for 10^1884
+122.450
+Found first prime for 10^1885
+62.280
+Found first prime for 10^1886
+979.650
+Found first prime for 10^1887
+71.320
+Found first prime for 10^1888
+440.200
+Found first prime for 10^1889
+300.280
+Found first prime for 10^1890
+2690.960
+Found first prime for 10^1891
+448.200
+Found first prime for 10^1892
+787.020
+Found first prime for 10^1893
+271.310
+Found first prime for 10^1894
+211.960
+Found first prime for 10^1895
+271.400
+Found first prime for 10^1896
+407.630
+Found first prime for 10^1897
+2457.030
+Found first prime for 10^1898
+416.150
+Found first prime for 10^1899
+223.710
+Found first prime for 10^1900
+973.210
+Found first prime for 10^1901
+312.950
+Found first prime for 10^1902
+921.910
+Found first prime for 10^1903
+240.790
+Found first prime for 10^1904
+600.990
+Found first prime for 10^1905
+39.760
+Found first prime for 10^1906
+500.350
+Found first prime for 10^1907
+1097.630
+Found first prime for 10^1908
+221.490
+Found first prime for 10^1909
+1632.000
+Found first prime for 10^1910
+605.070
+Found first prime for 10^1911
+15.450
+Found first prime for 10^1912
+252.870
+Found first prime for 10^1913
+414.970
+Found first prime for 10^1914
+39.110
+Found first prime for 10^1915
+141.200
+Found first prime for 10^1916
+152.210
+Found first prime for 10^1917
+463.370
+Found first prime for 10^1918
+578.840
+Found first prime for 10^1919
+717.810
+Found first prime for 10^1920
+377.620
+Found first prime for 10^1921
+167.640
+Found first prime for 10^1922
+6.850
+Found first prime for 10^1923
+122.700
+Found first prime for 10^1924
+740.550
+Found first prime for 10^1925
+130.260
+Found first prime for 10^1926
+153.670
+Found first prime for 10^1927
+377.590
+Found first prime for 10^1928
+113.120
+Found first prime for 10^1929
+864.720
+Found first prime for 10^1930
+1310.070
+Found first prime for 10^1931
+78.470
+Found first prime for 10^1932
+1182.820
+Found first prime for 10^1933
+294.010
+Found first prime for 10^1934
+248.050
+Found first prime for 10^1935
+547.400
+Found first prime for 10^1936
+171.880
+Found first prime for 10^1937
+146.010
+Found first prime for 10^1938
+22.780
+Found first prime for 10^1939
+410.410
+Found first prime for 10^1940
+208.810
+Found first prime for 10^1941
+11.190
+Found first prime for 10^1942
+188.340
+Found first prime for 10^1943
+524.530
+Found first prime for 10^1944
+863.140
+Found first prime for 10^1945
+346.390
+Found first prime for 10^1946
+931.430
+Found first prime for 10^1947
+1464.320
+Found first prime for 10^1948
+224.900
+Found first prime for 10^1949
+954.420
+Found first prime for 10^1950
+116.370
+Found first prime for 10^1951
+517.030
+Found first prime for 10^1952
+37.330
+Found first prime for 10^1953
+1726.210
+Found first prime for 10^1954
+239.670
+Found first prime for 10^1955
+83.170
+Found first prime for 10^1956
+1020.790
+Found first prime for 10^1957
+671.540
+Found first prime for 10^1958
+336.260
+Found first prime for 10^1959
+105.330
+Found first prime for 10^1960
+449.720
+Found first prime for 10^1961
+438.540
+Found first prime for 10^1962
+393.390
+Found first prime for 10^1963
+1366.280
+Found first prime for 10^1964
+391.640
+Found first prime for 10^1965
+1695.880
+Found first prime for 10^1966
+610.690
+Found first prime for 10^1967
+96.740
+Found first prime for 10^1968
+838.210
+Found first prime for 10^1969
+361.450
+Found first prime for 10^1970
+573.290
+Found first prime for 10^1971
+1660.250
+Found first prime for 10^1972
+246.130
+Found first prime for 10^1973
+238.420
+Found first prime for 10^1974
+293.460
+Found first prime for 10^1975
+349.140
+Found first prime for 10^1976
+168.800
+Found first prime for 10^1977
+738.370
+Found first prime for 10^1978
+1130.740
+Found first prime for 10^1979
+38.770
+Found first prime for 10^1980
+424.960
+Found first prime for 10^1981
+436.190
+Found first prime for 10^1982
+935.210
+Found first prime for 10^1983
+1428.230
+Found first prime for 10^1984
+563.110
+Found first prime for 10^1985
+1476.060
+Found first prime for 10^1986
+237.520
+Found first prime for 10^1987
+717.110
+Found first prime for 10^1988
+883.430
+Found first prime for 10^1989
+179.990
+Found first prime for 10^1990
+2175.110
+Found first prime for 10^1991
+250.590
+Found first prime for 10^1992
+1278.690
+Found first prime for 10^1993
+111.490
+Found first prime for 10^1994
+2287.860
+Found first prime for 10^1995
+2094.130
+Found first prime for 10^1996
+995.970
+Found first prime for 10^1997
+108.610
+Found first prime for 10^1998
+1182.370
+Found first prime for 10^1999
+722.950
+Found first prime for 10^2000
+829.190
+Found first prime for 10^2001
+2919.080
+Found first prime for 10^2002
+1449.370
+Found first prime for 10^2003
+799.620
+Found first prime for 10^2004
+24.040
+Found first prime for 10^2005
+371.250
+Found first prime for 10^2006
+740.390
+Found first prime for 10^2007
+75.390
+Found first prime for 10^2008
+309.360
+Found first prime for 10^2009
+889.530
+Found first prime for 10^2010
+198.890
+Found first prime for 10^2011
+318.360
+Found first prime for 10^2012
+229.950
+Found first prime for 10^2013
+1646.080
+Found first prime for 10^2014
+141.030
+Found first prime for 10^2015
+338.940
+Found first prime for 10^2016
+559.240
+Found first prime for 10^2017
+189.640
+Found first prime for 10^2018
+237.550
+Found first prime for 10^2019
+1248.070
+Found first prime for 10^2020
+579.060
+Found first prime for 10^2021
+191.900
+Found first prime for 10^2022
+9.610
+Found first prime for 10^2023
+506.090
+Found first prime for 10^2024
+1153.500
+Found first prime for 10^2025
+787.800
+Found first prime for 10^2026
+501.920
+Found first prime for 10^2027
+524.590
+Found first prime for 10^2028
+3987.620
+Found first prime for 10^2029
+218.840
+Found first prime for 10^2030
+995.120
+Found first prime for 10^2031
+287.120
+Found first prime for 10^2032
+498.940
+Found first prime for 10^2033
+16.800
+Found first prime for 10^2034
+108.820
+Found first prime for 10^2035
+1638.590
+Found first prime for 10^2036
+55.660
+Found first prime for 10^2037
+7169.520
+Found first prime for 10^2038
+2051.730
+Found first prime for 10^2039
+1165.600
+Found first prime for 10^2040
+446.880
+Found first prime for 10^2041
+272.540
+Found first prime for 10^2042
+3232.150
+Found first prime for 10^2043
+1035.850
+Found first prime for 10^2044
+487.770
+Found first prime for 10^2045
+1592.360
+Found first prime for 10^2046
+492.900
+Found first prime for 10^2047
+176.270
+Found first prime for 10^2048
+833.940
+Found first prime for 10^2049
+1526.010
+Found first prime for 10^2050
+1460.690
+Found first prime for 10^2051
+510.110
+Found first prime for 10^2052
+414.120
+Found first prime for 10^2053
+830.050
+Found first prime for 10^2054
+318.820
+Found first prime for 10^2055
+1934.410
+Found first prime for 10^2056
+63.720
+Found first prime for 10^2057
+456.950
+Found first prime for 10^2058
+340.660
+Found first prime for 10^2059
+6.730
+Found first prime for 10^2060
+1166.770
+Found first prime for 10^2061
+1137.850
+Found first prime for 10^2062
+4.540
+Found first prime for 10^2063
+267.810
+Found first prime for 10^2064
+361.170
+Found first prime for 10^2065
+284.200
+Found first prime for 10^2066
+920.910
+Found first prime for 10^2067
+666.320
+Found first prime for 10^2068
+172.540
+Found first prime for 10^2069
+90.030
+Found first prime for 10^2070
+1295.000
+Found first prime for 10^2071
+79.650
+Found first prime for 10^2072
+536.840
+Found first prime for 10^2073
+824.850
+Found first prime for 10^2074
+2583.210
+Found first prime for 10^2075
+418.130
+Found first prime for 10^2076
+203.580
+Found first prime for 10^2077
+751.780
+Found first prime for 10^2078
+1138.530
+Found first prime for 10^2079
+114.740
+Found first prime for 10^2080
+95.820
+Found first prime for 10^2081
+1765.170
+Found first prime for 10^2082
+1405.560
+Found first prime for 10^2083
+1390.370
+Found first prime for 10^2084
+435.690
+Found first prime for 10^2085
+1138.610
+Found first prime for 10^2086
+2587.030
+Found first prime for 10^2087
+1899.310
+Found first prime for 10^2088
+167.450
+Found first prime for 10^2089
+111.180
+Found first prime for 10^2090
+454.880
+Found first prime for 10^2091
+207.200
+Found first prime for 10^2092
+731.560
+Found first prime for 10^2093
+1268.130
+Found first prime for 10^2094
+3661.890
+Found first prime for 10^2095
+984.620
+Found first prime for 10^2096
+1199.280
+Found first prime for 10^2097
+2878.970
+Found first prime for 10^2098
+1126.160
+Found first prime for 10^2099
+1485.990
+Found first prime for 10^2100
+191.530
+Found first prime for 10^2101
+360.640
+Found first prime for 10^2102
+96.100
+Found first prime for 10^2103
+184.290
+Found first prime for 10^2104
+2211.040
+Found first prime for 10^2105
+882.840
+Found first prime for 10^2106
+617.050
+Found first prime for 10^2107
+991.940
+Found first prime for 10^2108
+1741.710
+Found first prime for 10^2109
+1361.200
+Found first prime for 10^2110
+64.060
+Found first prime for 10^2111
+157.110
+Found first prime for 10^2112
+1118.210
+Found first prime for 10^2113
+1190.020
+Found first prime for 10^2114
+1759.620
+Found first prime for 10^2115
+1978.410
+Found first prime for 10^2116
+576.800
+Found first prime for 10^2117
+193.510
+Found first prime for 10^2118
+1841.160
+Found first prime for 10^2119
+1287.130
+Found first prime for 10^2120
+247.380
+Found first prime for 10^2121
+541.460
+Found first prime for 10^2122
+554.240
+Found first prime for 10^2123
+708.100
+Found first prime for 10^2124
+1010.220
+Found first prime for 10^2125
+2614.050
+Found first prime for 10^2126
+1579.280
+Found first prime for 10^2127
+849.420
+Found first prime for 10^2128
+4337.430
+Found first prime for 10^2129
+607.610
+Found first prime for 10^2130
+192.860
+Found first prime for 10^2131
+168.930
+Found first prime for 10^2132
+923.630
+Found first prime for 10^2133
+2002.180
+Found first prime for 10^2134
+1415.440
+Found first prime for 10^2135
+122.640
+Found first prime for 10^2136
+52.150
+Found first prime for 10^2137
+324.630
+Found first prime for 10^2138
+109.130
+Found first prime for 10^2139
+2392.950
+Found first prime for 10^2140
+158.020
+Found first prime for 10^2141
+1204.680
+Found first prime for 10^2142
+157.410
+Found first prime for 10^2143
+1322.020
+Found first prime for 10^2144
+1829.050
+Found first prime for 10^2145
+231.950
+Found first prime for 10^2146
+530.370
+Found first prime for 10^2147
+2705.760
+Found first prime for 10^2148
+12.370
+Found first prime for 10^2149
+854.150
+Found first prime for 10^2150
+3302.920
+Found first prime for 10^2151
+1632.740
+Found first prime for 10^2152
+595.520
+Found first prime for 10^2153
+1580.600
+Found first prime for 10^2154
+24.820
+Found first prime for 10^2155
+196.650
+Found first prime for 10^2156
+81.150
+Found first prime for 10^2157
+1962.390
+Found first prime for 10^2158
+955.520
+Found first prime for 10^2159
+63.620
+Found first prime for 10^2160
+100.380
+Found first prime for 10^2161
+457.760
+Found first prime for 10^2162
+509.680
+Found first prime for 10^2163
+1168.960
+Found first prime for 10^2164
+316.250
+Found first prime for 10^2165
+96.890
+Found first prime for 10^2166
+2555.140
+Found first prime for 10^2167
+2661.730
+Found first prime for 10^2168
+122.680
+Found first prime for 10^2169
+1293.390
+Found first prime for 10^2170
+21.710
+Found first prime for 10^2171
+2155.430
+Found first prime for 10^2172
+1944.230
+Found first prime for 10^2173
+315.640
+Found first prime for 10^2174
+569.270
+Found first prime for 10^2175
+1142.200
+Found first prime for 10^2176
+1403.060
+Found first prime for 10^2177
+514.760
+Found first prime for 10^2178
+95.360
+Found first prime for 10^2179
+541.080
+Found first prime for 10^2180
+1273.720
+Found first prime for 10^2181
+4516.870
+Found first prime for 10^2182
+100.930
+Found first prime for 10^2183

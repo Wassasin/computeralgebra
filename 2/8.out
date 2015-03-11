@@ -1,0 +1,40 @@
+Magma V2.21-1     Tue Mar 10 2015 13:54:19 on lilo4    [Seed = 1824969083]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "8.magma"
+0.000
+Fn with n=0 is prime
+0.000
+Fn with n=1 is prime
+0.000
+Fn with n=2 is prime
+0.000
+Fn with n=3 is prime
+0.000
+Fn with n=4 is prime
+0.000
+Fn with n=5 is NOT prime
+0.000
+Fn with n=6 is NOT prime
+0.020
+Fn with n=7 is NOT prime
+0.000
+Fn with n=8 is NOT prime
+0.010
+Fn with n=9 is NOT prime
+0.050
+Fn with n=10 is NOT prime
+0.340
+Fn with n=11 is NOT prime
+2.480
+Fn with n=12 is NOT prime
+17.770
+Fn with n=13 is NOT prime
+131.640
+Fn with n=14 is NOT prime
+1015.730
+Fn with n=15 is NOT prime
+
+[Interrupted]
+
+Total time: 9219.799 seconds, Total memory usage: 32.09MB

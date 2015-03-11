@@ -1,0 +1,38 @@
+Magma V2.21-1     Tue Mar 10 2015 16:13:15 on lilo4    [Seed = 2718563457]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "9_1.magma"
+Fn with c=1, n=5, d=641 (in 0.000 seconds)
+Fn with c=1, n=6, d=274177 (in 0.000 seconds)
+Fn with c=1, n=7, too many cycles (in 13.340 seconds)
+Fn with c=1, n=8, too many cycles (in 29.280 seconds)
+Fn with c=1, n=9, d=2424833 (in 0.210 seconds)
+Fn with c=1, n=10, d=45592577 (in 0.780 seconds)
+Fn with c=1, n=11, d=974849 (in 0.210 seconds)
+Fn with c=1, n=12, d=114689 (in 0.690 seconds)
+Fn with c=-2, n=5, d=641 (in 0.000 seconds)
+Fn with c=-2, n=6, d=274177 (in 0.000 seconds)
+Fn with c=-2, n=7, too many cycles (in 14.050 seconds)
+Fn with c=-2, n=8, too many cycles (in 29.830 seconds)
+Fn with c=-2, n=9, d=2424833 (in 0.010 seconds)
+Fn with c=-2, n=10, d=45592577 (in 1.020 seconds)
+Fn with c=-2, n=11, d=319489 (in 0.420 seconds)
+Fn with c=-2, n=12, d=114689 (in 4.980 seconds)
+Fn with c=-1, n=5, d=641 (in 0.000 seconds)
+Fn with c=-1, n=6, d=274177 (in 0.000 seconds)
+Fn with c=-1, n=7, too many cycles (in 13.970 seconds)
+Fn with c=-1, n=8, too many cycles (in 29.700 seconds)
+Fn with c=-1, n=9, d=2424833 (in 0.080 seconds)
+Fn with c=-1, n=10, d=45592577 (in 1.460 seconds)
+Fn with c=-1, n=11, d=319489 (in 0.140 seconds)
+Fn with c=-1, n=12, d=114689 (in 0.150 seconds)
+Fn with c=2, n=5, d=641 (in 0.000 seconds)
+Fn with c=2, n=6, d=274177 (in 0.000 seconds)
+Fn with c=2, n=7, too many cycles (in 13.170 seconds)
+Fn with c=2, n=8, too many cycles (in 29.240 seconds)
+Fn with c=2, n=9, d=2424833 (in 0.190 seconds)
+Fn with c=2, n=10, d=45592577 (in 2.130 seconds)
+Fn with c=2, n=11, d=319489 (in 0.390 seconds)
+Fn with c=2, n=12, d=114689 (in 0.370 seconds)
+
+Total time: 185.990 seconds, Total memory usage: 32.09MB
