@@ -1,3 +1,5 @@
+// Naive implementation of PollardRho
+
 function PollardRho(N, c, k)
 	MODN := Integers(N);
 

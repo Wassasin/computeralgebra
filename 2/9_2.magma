@@ -1,3 +1,5 @@
+// Accumulating PollardRho, with l being number of rounds to be accumulated before computing Gcd
+
 function PollardRho(N, c, l, k)
 	MODN := Integers(N);
 
@@ -37,7 +39,7 @@ procedure Test(c)
 	for n in [5..12] do
 		fn := 2^(2^n)+1;
 		t := Cputime();
-		result := PollardRho(fn, c, 10^3, 10^6);
+		result := PollardRho(fn, c, 10^3, 10^12);
 		if(result ne 0) then
 			printf "Fn with c=%o, n=%o, d=%o (in %o seconds)\n", c, n, result, Cputime(t);
 		else
